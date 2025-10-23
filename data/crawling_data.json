@@ -821,7 +821,7 @@
         "SCFI": [
             {
                 "date": "2024-10-25",
-                "SCFI_Composite_Index": 2185.0,
+                "SCFI_Composite_Index": 2185,
                 "SCFI_US_West_Coast": 4783,
                 "SCFI_US_East_Coast": 5099,
                 "SCFI_North_Europe": 2226,
@@ -838,7 +838,7 @@
             },
             {
                 "date": "2024-11-01",
-                "SCFI_Composite_Index": 2303.0,
+                "SCFI_Composite_Index": 2303,
                 "SCFI_US_West_Coast": 4826,
                 "SCFI_US_East_Coast": 5258,
                 "SCFI_North_Europe": 2442,
@@ -855,7 +855,7 @@
             },
             {
                 "date": "2024-11-08",
-                "SCFI_Composite_Index": 2331.0,
+                "SCFI_Composite_Index": 2331,
                 "SCFI_US_West_Coast": 4729,
                 "SCFI_US_East_Coast": 5281,
                 "SCFI_North_Europe": 2541,
@@ -872,7 +872,7 @@
             },
             {
                 "date": "2024-11-15",
-                "SCFI_Composite_Index": 2252.0,
+                "SCFI_Composite_Index": 2252,
                 "SCFI_US_West_Coast": 4181,
                 "SCFI_US_East_Coast": 5602,
                 "SCFI_North_Europe": 2512,
@@ -889,7 +889,7 @@
             },
             {
                 "date": "2024-11-22",
-                "SCFI_Composite_Index": 2160.0,
+                "SCFI_Composite_Index": 2160,
                 "SCFI_US_West_Coast": 3821,
                 "SCFI_US_East_Coast": 4997,
                 "SCFI_North_Europe": 2481,
@@ -906,7 +906,7 @@
             },
             {
                 "date": "2024-11-29",
-                "SCFI_Composite_Index": 2233.0,
+                "SCFI_Composite_Index": 2233,
                 "SCFI_US_West_Coast": 3345,
                 "SCFI_US_East_Coast": 4954,
                 "SCFI_North_Europe": 3039,
@@ -923,7 +923,7 @@
             },
             {
                 "date": "2024-12-06",
-                "SCFI_Composite_Index": 2256.0,
+                "SCFI_Composite_Index": 2256,
                 "SCFI_US_West_Coast": 3309,
                 "SCFI_US_East_Coast": 4924,
                 "SCFI_North_Europe": 3030,
@@ -940,7 +940,7 @@
             },
             {
                 "date": "2024-12-13",
-                "SCFI_Composite_Index": 2384.0,
+                "SCFI_Composite_Index": 2384,
                 "SCFI_US_West_Coast": 4023,
                 "SCFI_US_East_Coast": 5494,
                 "SCFI_North_Europe": 2963,
@@ -957,7 +957,7 @@
             },
             {
                 "date": "2024-12-20",
-                "SCFI_Composite_Index": 2390.0,
+                "SCFI_Composite_Index": 2390,
                 "SCFI_US_West_Coast": 4198,
                 "SCFI_US_East_Coast": 5642,
                 "SCFI_North_Europe": 2946,
@@ -974,7 +974,7 @@
             },
             {
                 "date": "2024-12-27",
-                "SCFI_Composite_Index": 2460.0,
+                "SCFI_Composite_Index": 2460,
                 "SCFI_US_West_Coast": 4581,
                 "SCFI_US_East_Coast": 6074,
                 "SCFI_North_Europe": 2962,
@@ -991,7 +991,7 @@
             },
             {
                 "date": "2025-01-03",
-                "SCFI_Composite_Index": 2505.0,
+                "SCFI_Composite_Index": 2505,
                 "SCFI_US_West_Coast": 4997,
                 "SCFI_US_East_Coast": 6418,
                 "SCFI_North_Europe": 2851,
@@ -1008,7 +1008,7 @@
             },
             {
                 "date": "2025-01-10",
-                "SCFI_Composite_Index": 2290.0,
+                "SCFI_Composite_Index": 2290,
                 "SCFI_US_West_Coast": 4682,
                 "SCFI_US_East_Coast": 6629,
                 "SCFI_North_Europe": 2440,
@@ -1025,7 +1025,7 @@
             },
             {
                 "date": "2025-01-17",
-                "SCFI_Composite_Index": 2131.0,
+                "SCFI_Composite_Index": 2131,
                 "SCFI_US_West_Coast": 4232,
                 "SCFI_US_East_Coast": 5960,
                 "SCFI_North_Europe": 2279,
@@ -1042,7 +1042,7 @@
             },
             {
                 "date": "2025-01-24",
-                "SCFI_Composite_Index": 2045.0,
+                "SCFI_Composite_Index": 2045,
                 "SCFI_US_West_Coast": 4116,
                 "SCFI_US_East_Coast": 5776,
                 "SCFI_North_Europe": 2147,
@@ -1059,7 +1059,7 @@
             },
             {
                 "date": "2025-02-07",
-                "SCFI_Composite_Index": 1896.0,
+                "SCFI_Composite_Index": 1896,
                 "SCFI_US_West_Coast": 3932,
                 "SCFI_US_East_Coast": 5490,
                 "SCFI_North_Europe": 1805,
@@ -1076,7 +1076,7 @@
             },
             {
                 "date": "2025-02-14",
-                "SCFI_Composite_Index": 1758.0,
+                "SCFI_Composite_Index": 1758,
                 "SCFI_US_West_Coast": 3544,
                 "SCFI_US_East_Coast": 4825,
                 "SCFI_North_Europe": 1608,
@@ -1093,7 +1093,7 @@
             },
             {
                 "date": "2025-02-21",
-                "SCFI_Composite_Index": 1595.0,
+                "SCFI_Composite_Index": 1595,
                 "SCFI_US_West_Coast": 2907,
                 "SCFI_US_East_Coast": 3954,
                 "SCFI_North_Europe": 1578,
@@ -1110,7 +1110,7 @@
             },
             {
                 "date": "2025-02-28",
-                "SCFI_Composite_Index": 1515.0,
+                "SCFI_Composite_Index": 1515,
                 "SCFI_US_West_Coast": 2482,
                 "SCFI_US_East_Coast": 3508,
                 "SCFI_North_Europe": 1693,
@@ -1127,7 +1127,7 @@
             },
             {
                 "date": "2025-03-07",
-                "SCFI_Composite_Index": 1463.0,
+                "SCFI_Composite_Index": 1463,
                 "SCFI_US_West_Coast": 2291,
                 "SCFI_US_East_Coast": 3329,
                 "SCFI_North_Europe": 1582,
@@ -1144,7 +1144,7 @@
             },
             {
                 "date": "2025-03-14",
-                "SCFI_Composite_Index": 1319.0,
+                "SCFI_Composite_Index": 1319,
                 "SCFI_US_West_Coast": 1965,
                 "SCFI_US_East_Coast": 2977,
                 "SCFI_North_Europe": 1342,
@@ -1161,7 +1161,7 @@
             },
             {
                 "date": "2025-03-21",
-                "SCFI_Composite_Index": 1292.0,
+                "SCFI_Composite_Index": 1292,
                 "SCFI_US_West_Coast": 1872,
                 "SCFI_US_East_Coast": 2866,
                 "SCFI_North_Europe": 1306,
@@ -1178,7 +1178,7 @@
             },
             {
                 "date": "2025-03-28",
-                "SCFI_Composite_Index": 1357.0,
+                "SCFI_Composite_Index": 1357,
                 "SCFI_US_West_Coast": 2177,
                 "SCFI_US_East_Coast": 3194,
                 "SCFI_North_Europe": 1318,
@@ -1195,7 +1195,7 @@
             },
             {
                 "date": "2025-04-04",
-                "SCFI_Composite_Index": 1392.0,
+                "SCFI_Composite_Index": 1392,
                 "SCFI_US_West_Coast": 2313,
                 "SCFI_US_East_Coast": 3306,
                 "SCFI_North_Europe": 1336,
@@ -1212,7 +1212,7 @@
             },
             {
                 "date": "2025-04-11",
-                "SCFI_Composite_Index": 1394.68,
+                "SCFI_Composite_Index": 1395,
                 "SCFI_US_West_Coast": 2202,
                 "SCFI_US_East_Coast": 3226,
                 "SCFI_North_Europe": 1356,
@@ -1229,7 +1229,7 @@
             },
             {
                 "date": "2025-04-18",
-                "SCFI_Composite_Index": 1370.58,
+                "SCFI_Composite_Index": 1371,
                 "SCFI_US_West_Coast": 2103,
                 "SCFI_US_East_Coast": 3251,
                 "SCFI_North_Europe": 1316,
@@ -1246,7 +1246,7 @@
             },
             {
                 "date": "2025-04-25",
-                "SCFI_Composite_Index": 1347.84,
+                "SCFI_Composite_Index": 1348,
                 "SCFI_US_West_Coast": 2141,
                 "SCFI_US_East_Coast": 3257,
                 "SCFI_North_Europe": 1260,
@@ -1263,7 +1263,7 @@
             },
             {
                 "date": "2025-04-30",
-                "SCFI_Composite_Index": 1340.93,
+                "SCFI_Composite_Index": 1341,
                 "SCFI_US_West_Coast": 2272,
                 "SCFI_US_East_Coast": 3283,
                 "SCFI_North_Europe": 1200,
@@ -1280,7 +1280,7 @@
             },
             {
                 "date": "2025-05-09",
-                "SCFI_Composite_Index": 1345.17,
+                "SCFI_Composite_Index": 1345,
                 "SCFI_US_West_Coast": 2347,
                 "SCFI_US_East_Coast": 3335,
                 "SCFI_North_Europe": 1161,
@@ -1297,7 +1297,7 @@
             },
             {
                 "date": "2025-05-16",
-                "SCFI_Composite_Index": 1479.39,
+                "SCFI_Composite_Index": 1479,
                 "SCFI_US_West_Coast": 3091,
                 "SCFI_US_East_Coast": 4069,
                 "SCFI_North_Europe": 1154,
@@ -1314,7 +1314,7 @@
             },
             {
                 "date": "2025-05-23",
-                "SCFI_Composite_Index": 1586.0,
+                "SCFI_Composite_Index": 1586,
                 "SCFI_US_West_Coast": 3275,
                 "SCFI_US_East_Coast": 4284,
                 "SCFI_North_Europe": 1317,
@@ -1331,7 +1331,7 @@
             },
             {
                 "date": "2025-05-30",
-                "SCFI_Composite_Index": 2073.0,
+                "SCFI_Composite_Index": 2073,
                 "SCFI_US_West_Coast": 5172,
                 "SCFI_US_East_Coast": 6243,
                 "SCFI_North_Europe": 1587,
@@ -1348,7 +1348,7 @@
             },
             {
                 "date": "2025-06-05",
-                "SCFI_Composite_Index": 2240.0,
+                "SCFI_Composite_Index": 2240,
                 "SCFI_US_West_Coast": 5606,
                 "SCFI_US_East_Coast": 6939,
                 "SCFI_North_Europe": 1667,
@@ -1365,7 +1365,7 @@
             },
             {
                 "date": "2025-06-13",
-                "SCFI_Composite_Index": 2088.0,
+                "SCFI_Composite_Index": 2088,
                 "SCFI_US_West_Coast": 4120,
                 "SCFI_US_East_Coast": 6745,
                 "SCFI_North_Europe": 1844,
@@ -1382,7 +1382,7 @@
             },
             {
                 "date": "2025-06-20",
-                "SCFI_Composite_Index": 1870.0,
+                "SCFI_Composite_Index": 1870,
                 "SCFI_US_West_Coast": 2772,
                 "SCFI_US_East_Coast": 5352,
                 "SCFI_North_Europe": 1835,
@@ -1399,7 +1399,7 @@
             },
             {
                 "date": "2025-06-27",
-                "SCFI_Composite_Index": 1862.0,
+                "SCFI_Composite_Index": 1862,
                 "SCFI_US_West_Coast": 2578,
                 "SCFI_US_East_Coast": 4717,
                 "SCFI_North_Europe": 2030,
@@ -1416,7 +1416,7 @@
             },
             {
                 "date": "2025-07-04",
-                "SCFI_Composite_Index": 1763.0,
+                "SCFI_Composite_Index": 1763,
                 "SCFI_US_West_Coast": 2089,
                 "SCFI_US_East_Coast": 4124,
                 "SCFI_North_Europe": 2101,
@@ -1433,7 +1433,7 @@
             },
             {
                 "date": "2025-07-11",
-                "SCFI_Composite_Index": 1733.0,
+                "SCFI_Composite_Index": 1733,
                 "SCFI_US_West_Coast": 2194,
                 "SCFI_US_East_Coast": 4172,
                 "SCFI_North_Europe": 2099,
@@ -1450,7 +1450,7 @@
             },
             {
                 "date": "2025-07-18",
-                "SCFI_Composite_Index": 1647.0,
+                "SCFI_Composite_Index": 1647,
                 "SCFI_US_West_Coast": 2142,
                 "SCFI_US_East_Coast": 3612,
                 "SCFI_North_Europe": 2079,
@@ -1467,7 +1467,7 @@
             },
             {
                 "date": "2025-07-25",
-                "SCFI_Composite_Index": 1593.0,
+                "SCFI_Composite_Index": 1593,
                 "SCFI_US_West_Coast": 2067,
                 "SCFI_US_East_Coast": 3378,
                 "SCFI_North_Europe": 2090,
@@ -1484,7 +1484,7 @@
             },
             {
                 "date": "2025-08-01",
-                "SCFI_Composite_Index": 1551.0,
+                "SCFI_Composite_Index": 1551,
                 "SCFI_US_West_Coast": 2021,
                 "SCFI_US_East_Coast": 3126,
                 "SCFI_North_Europe": 2051,
@@ -1501,7 +1501,7 @@
             },
             {
                 "date": "2025-08-08",
-                "SCFI_Composite_Index": 1490.0,
+                "SCFI_Composite_Index": 1490,
                 "SCFI_US_West_Coast": 1823,
                 "SCFI_US_East_Coast": 2792,
                 "SCFI_North_Europe": 1961,
@@ -1518,7 +1518,7 @@
             },
             {
                 "date": "2025-08-14",
-                "SCFI_Composite_Index": 1460.0,
+                "SCFI_Composite_Index": 1460,
                 "SCFI_US_West_Coast": 1759,
                 "SCFI_US_East_Coast": 2719,
                 "SCFI_North_Europe": 1820,
@@ -1535,7 +1535,7 @@
             },
             {
                 "date": "2025-08-22",
-                "SCFI_Composite_Index": 1415.0,
+                "SCFI_Composite_Index": 1415,
                 "SCFI_US_West_Coast": 1644,
                 "SCFI_US_East_Coast": 2613,
                 "SCFI_North_Europe": 1668,
@@ -1552,7 +1552,7 @@
             },
             {
                 "date": "2025-08-29",
-                "SCFI_Composite_Index": 1445.0,
+                "SCFI_Composite_Index": 1445,
                 "SCFI_US_West_Coast": 1923,
                 "SCFI_US_East_Coast": 2866,
                 "SCFI_North_Europe": 1481,
@@ -1569,7 +1569,7 @@
             },
             {
                 "date": "2025-09-05",
-                "SCFI_Composite_Index": 1444.0,
+                "SCFI_Composite_Index": 1444,
                 "SCFI_US_West_Coast": 2189,
                 "SCFI_US_East_Coast": 3073,
                 "SCFI_North_Europe": 1315,
@@ -1586,7 +1586,7 @@
             },
             {
                 "date": "2025-09-12",
-                "SCFI_Composite_Index": 1398.0,
+                "SCFI_Composite_Index": 1398,
                 "SCFI_US_West_Coast": 2370,
                 "SCFI_US_East_Coast": 3307,
                 "SCFI_North_Europe": 1154,
@@ -1603,7 +1603,7 @@
             },
             {
                 "date": "2025-09-19",
-                "SCFI_Composite_Index": 1198.0,
+                "SCFI_Composite_Index": 1198,
                 "SCFI_US_West_Coast": 1636,
                 "SCFI_US_East_Coast": 2557,
                 "SCFI_North_Europe": 1052,
@@ -1620,7 +1620,7 @@
             },
             {
                 "date": "2025-09-26",
-                "SCFI_Composite_Index": 1115.0,
+                "SCFI_Composite_Index": 1115,
                 "SCFI_US_West_Coast": 1460,
                 "SCFI_US_East_Coast": 2385,
                 "SCFI_North_Europe": 971,
@@ -1637,7 +1637,7 @@
             },
             {
                 "date": "2025-10-10",
-                "SCFI_Composite_Index": 1160.0,
+                "SCFI_Composite_Index": 1160,
                 "SCFI_US_West_Coast": 1468,
                 "SCFI_US_East_Coast": 2452,
                 "SCFI_North_Europe": 1068,
@@ -1654,7 +1654,7 @@
             },
             {
                 "date": "2025-10-17",
-                "SCFI_Composite_Index": 1310.0,
+                "SCFI_Composite_Index": 1310,
                 "SCFI_US_West_Coast": 1936,
                 "SCFI_US_East_Coast": 2853,
                 "SCFI_North_Europe": 1145,
