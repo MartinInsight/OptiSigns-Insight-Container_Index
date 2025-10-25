@@ -1672,18 +1672,6 @@
         ],
         "WCI": [
             {
-                "date": "2024-10-24",
-                "WCI_Composite_Index": 3095,
-                "WCI_Shanghai_Rotterdam": 3132,
-                "WCI_Rotterdam_Shanghai": 548,
-                "WCI_Shanghai_Genoa": 3296,
-                "WCI_Shanghai_to_Los_Angeles": 4814,
-                "WCI_Los_Angeles_to_Shanghai": 710,
-                "WCI_Shanghai_New_York": 5266,
-                "WCI_New_York_Rotterdam": 761,
-                "WCI_Rotterdam_New_York": 2663
-            },
-            {
                 "date": "2024-10-31",
                 "WCI_Composite_Index": 3213,
                 "WCI_Shanghai_Rotterdam": 3396,
@@ -3496,17 +3484,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2024-10-24",
-                "XSI_East_Asia_North_Europe": 3235,
-                "XSI_North_Europe_East_Asia": 385,
-                "XSI_East_Asia_US_West_Coast": 5199,
-                "XSI_US_West_Coast_East_Asia": 699,
-                "XSI_East_Asia_South_America_East_Coast": 6648,
-                "XSI_North_Europe_US_East_Coast": 2923,
-                "XSI_US_East_Coast_North_Europe": 558,
-                "XSI_North_Europe_South_America_East_Coast": 567
-            },
             {
                 "date": "2024-10-25",
                 "XSI_East_Asia_North_Europe": 3232,
@@ -7073,40 +7050,40 @@
                 {
                     "route": "XSI_동아시아 → 북유럽",
                     "current_index": 1947.0,
-                    "previous_index": 1958.0,
+                    "previous_index": 1964.0,
                     "weekly_change": {
-                        "value": "-11.0",
-                        "percentage": "-0.56%",
+                        "value": "-17.0",
+                        "percentage": "-0.87%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_북유럽 → 동아시아",
                     "current_index": 152.0,
-                    "previous_index": 158.0,
+                    "previous_index": 156.0,
                     "weekly_change": {
-                        "value": "-6.0",
-                        "percentage": "-3.80%",
+                        "value": "-4.0",
+                        "percentage": "-2.56%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 미주서안",
                     "current_index": 2027.0,
-                    "previous_index": 1663.0,
+                    "previous_index": 1727.0,
                     "weekly_change": {
-                        "value": "364.0",
-                        "percentage": "21.89%",
+                        "value": "300.0",
+                        "percentage": "17.37%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_미주서안 → 동아시아",
                     "current_index": 664.0,
-                    "previous_index": 621.0,
+                    "previous_index": 618.0,
                     "weekly_change": {
-                        "value": "43.0",
-                        "percentage": "6.92%",
+                        "value": "46.0",
+                        "percentage": "7.44%",
                         "color_class": "text-red-500"
                     }
                 },
@@ -7123,10 +7100,10 @@
                 {
                     "route": "XSI_북유럽 → 미주동안",
                     "current_index": 1590.0,
-                    "previous_index": 1611.0,
+                    "previous_index": 1593.0,
                     "weekly_change": {
-                        "value": "-21.0",
-                        "percentage": "-1.30%",
+                        "value": "-3.0",
+                        "percentage": "-0.19%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -7143,10 +7120,10 @@
                 {
                     "route": "XSI_북유럽 → 남미동안",
                     "current_index": 495.0,
-                    "previous_index": 530.0,
+                    "previous_index": 529.0,
                     "weekly_change": {
-                        "value": "-35.0",
-                        "percentage": "-6.60%",
+                        "value": "-34.0",
+                        "percentage": "-6.43%",
                         "color_class": "text-blue-500"
                     }
                 }
