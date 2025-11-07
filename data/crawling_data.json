@@ -2294,18 +2294,21 @@
                 "WCI_Shanghai_New_York": 3568,
                 "WCI_New_York_Rotterdam": 846,
                 "WCI_Rotterdam_New_York": 1678
+            },
+            {
+                "date": "2025-11-06",
+                "WCI_Composite_Index": 1959,
+                "WCI_Shanghai_Rotterdam": 1962,
+                "WCI_Rotterdam_Shanghai": 463,
+                "WCI_Shanghai_Genoa": 2111,
+                "WCI_Shanghai_to_Los_Angeles": 2647,
+                "WCI_Los_Angeles_to_Shanghai": 713,
+                "WCI_Shanghai_New_York": 3837,
+                "WCI_New_York_Rotterdam": 865,
+                "WCI_Rotterdam_New_York": 1664
             }
         ],
         "BLANKSAILING": [
-            {
-                "date": "2025-02-07",
-                "BLANKSAILING_Gemini_Cooperation": 3,
-                "BLANKSAILING_MSC": 0,
-                "BLANKSAILING_OCEAN_Alliance": 8,
-                "BLANKSAILING_Premier_Alliance": 15,
-                "BLANKSAILING_Others_Independent": 10,
-                "BLANKSAILING_Total": 7
-            },
             {
                 "date": "2025-02-14",
                 "BLANKSAILING_Gemini_Cooperation": 5,
@@ -2641,12 +2644,21 @@
             },
             {
                 "date": "2025-10-31",
-                "BLANKSAILING_Gemini_Cooperation": 100,
+                "BLANKSAILING_Gemini_Cooperation": 0,
                 "BLANKSAILING_MSC": 6,
                 "BLANKSAILING_OCEAN_Alliance": 16,
                 "BLANKSAILING_Premier_Alliance": 13,
                 "BLANKSAILING_Others_Independent": 10,
                 "BLANKSAILING_Total": 10
+            },
+            {
+                "date": "2025-11-07",
+                "BLANKSAILING_Gemini_Cooperation": 0,
+                "BLANKSAILING_MSC": 5,
+                "BLANKSAILING_OCEAN_Alliance": 11,
+                "BLANKSAILING_Premier_Alliance": 9,
+                "BLANKSAILING_Others_Independent": 9,
+                "BLANKSAILING_Total": 7
             }
         ],
         "FBX": [
@@ -6839,62 +6851,58 @@
             "rows": [
                 {
                     "route": "BLANKSAILING_Gemini Cooperation",
-                    "current_index": 100.0,
-                    "previous_index": 1.0,
-                    "weekly_change": {
-                        "value": "99",
-                        "percentage": "9900.00%",
-                        "color_class": "text-red-500"
-                    }
+                    "current_index": 0.0,
+                    "previous_index": 0.0,
+                    "weekly_change": null
                 },
                 {
                     "route": "BLANKSAILING_MSC",
-                    "current_index": 6.0,
-                    "previous_index": 5.0,
+                    "current_index": 5.0,
+                    "previous_index": 6.0,
                     "weekly_change": {
-                        "value": "1",
-                        "percentage": "20.00%",
-                        "color_class": "text-red-500"
+                        "value": "-1",
+                        "percentage": "-16.67%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_OCEAN Alliance",
-                    "current_index": 16.0,
-                    "previous_index": 14.0,
+                    "current_index": 11.0,
+                    "previous_index": 16.0,
                     "weekly_change": {
-                        "value": "2",
-                        "percentage": "14.29%",
-                        "color_class": "text-red-500"
+                        "value": "-5",
+                        "percentage": "-31.25%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Premier Alliance",
-                    "current_index": 13.0,
-                    "previous_index": 8.0,
+                    "current_index": 9.0,
+                    "previous_index": 13.0,
                     "weekly_change": {
-                        "value": "5",
-                        "percentage": "62.50%",
-                        "color_class": "text-red-500"
+                        "value": "-4",
+                        "percentage": "-30.77%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Others/Independent",
-                    "current_index": 10.0,
-                    "previous_index": 9.0,
+                    "current_index": 9.0,
+                    "previous_index": 10.0,
                     "weekly_change": {
-                        "value": "1",
-                        "percentage": "11.11%",
-                        "color_class": "text-red-500"
+                        "value": "-1",
+                        "percentage": "-10.00%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Total",
-                    "current_index": 10.0,
-                    "previous_index": 8.0,
+                    "current_index": 7.0,
+                    "previous_index": 10.0,
                     "weekly_change": {
-                        "value": "2",
-                        "percentage": "25.00%",
-                        "color_class": "text-red-500"
+                        "value": "-3",
+                        "percentage": "-30.00%",
+                        "color_class": "text-blue-500"
                     }
                 }
             ]
