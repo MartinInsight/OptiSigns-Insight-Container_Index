@@ -816,6 +816,23 @@
                 "KCCI_China": 48,
                 "KCCI_Japan": 215,
                 "KCCI_Southeast_Asia": 856
+            },
+            {
+                "date": "2025-11-17",
+                "KCCI_Composite_Index": 1760,
+                "KCCI_US_West_Coast": 2134,
+                "KCCI_US_East_Coast": 2892,
+                "KCCI_Europe": 2384,
+                "KCCI_Mediterranean": 2727,
+                "KCCI_Middle_East": 2049,
+                "KCCI_Australia": 2916,
+                "KCCI_South_America_East_Coast": 2591,
+                "KCCI_South_America_West_Coast": 2121,
+                "KCCI_South_Africa": 3567,
+                "KCCI_West_Africa": 3483,
+                "KCCI_China": 48,
+                "KCCI_Japan": 215,
+                "KCCI_Southeast_Asia": 876
             }
         ],
         "SCFI": [
@@ -1651,6 +1668,23 @@
                 "SCFI_Korea": 138,
                 "SCFI_East_West_Africa": 3728,
                 "SCFI_South_Africa": 2786
+            },
+            {
+                "date": "2025-11-14",
+                "SCFI_Composite_Index": 1451,
+                "SCFI_US_West_Coast": 1823,
+                "SCFI_US_East_Coast": 2600,
+                "SCFI_North_Europe": 1417,
+                "SCFI_Mediterranean": 2029,
+                "SCFI_Southeast_Asia": 531,
+                "SCFI_Middle_East": 1805,
+                "SCFI_Australia_New_Zealand": 1745,
+                "SCFI_South_America": 1691,
+                "SCFI_Japan_West_Coast": 312,
+                "SCFI_Japan_East_Coast": 321,
+                "SCFI_Korea": 141,
+                "SCFI_East_West_Africa": 3645,
+                "SCFI_South_Africa": 2626
             }
         ],
         "WCI": [
@@ -6162,122 +6196,122 @@
             "rows": [
                 {
                     "route": "KCCI_종합지수",
-                    "current_index": 1848.0,
-                    "previous_index": 1834.0,
+                    "current_index": 1760.0,
+                    "previous_index": 1848.0,
                     "weekly_change": {
-                        "value": "14.0",
-                        "percentage": "0.76%",
-                        "color_class": "text-red-500"
+                        "value": "-88.0",
+                        "percentage": "-4.76%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_미주서안",
-                    "current_index": 2464.0,
-                    "previous_index": 2411.0,
+                    "current_index": 2134.0,
+                    "previous_index": 2464.0,
                     "weekly_change": {
-                        "value": "53.0",
-                        "percentage": "2.20%",
-                        "color_class": "text-red-500"
+                        "value": "-330.0",
+                        "percentage": "-13.39%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_미주동안",
-                    "current_index": 3073.0,
-                    "previous_index": 3304.0,
+                    "current_index": 2892.0,
+                    "previous_index": 3073.0,
                     "weekly_change": {
-                        "value": "-231.0",
-                        "percentage": "-6.99%",
+                        "value": "-181.0",
+                        "percentage": "-5.89%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_유럽",
-                    "current_index": 2306.0,
-                    "previous_index": 2146.0,
+                    "current_index": 2384.0,
+                    "previous_index": 2306.0,
                     "weekly_change": {
-                        "value": "160.0",
-                        "percentage": "7.46%",
+                        "value": "78.0",
+                        "percentage": "3.38%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "KCCI_지중해",
-                    "current_index": 2746.0,
-                    "previous_index": 2495.0,
+                    "current_index": 2727.0,
+                    "previous_index": 2746.0,
                     "weekly_change": {
-                        "value": "251.0",
-                        "percentage": "10.06%",
-                        "color_class": "text-red-500"
+                        "value": "-19.0",
+                        "percentage": "-0.69%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_중동",
-                    "current_index": 2036.0,
-                    "previous_index": 2028.0,
+                    "current_index": 2049.0,
+                    "previous_index": 2036.0,
                     "weekly_change": {
-                        "value": "8.0",
-                        "percentage": "0.39%",
+                        "value": "13.0",
+                        "percentage": "0.64%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "KCCI_호주",
-                    "current_index": 2852.0,
-                    "previous_index": 2686.0,
+                    "current_index": 2916.0,
+                    "previous_index": 2852.0,
                     "weekly_change": {
-                        "value": "166.0",
-                        "percentage": "6.18%",
+                        "value": "64.0",
+                        "percentage": "2.24%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "KCCI_남미동안",
-                    "current_index": 2856.0,
-                    "previous_index": 2964.0,
+                    "current_index": 2591.0,
+                    "previous_index": 2856.0,
                     "weekly_change": {
-                        "value": "-108.0",
-                        "percentage": "-3.64%",
+                        "value": "-265.0",
+                        "percentage": "-9.28%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_남미서안",
-                    "current_index": 2412.0,
-                    "previous_index": 2465.0,
+                    "current_index": 2121.0,
+                    "previous_index": 2412.0,
                     "weekly_change": {
-                        "value": "-53.0",
-                        "percentage": "-2.15%",
+                        "value": "-291.0",
+                        "percentage": "-12.06%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_남아프리카",
-                    "current_index": 3602.0,
-                    "previous_index": 3727.0,
+                    "current_index": 3567.0,
+                    "previous_index": 3602.0,
                     "weekly_change": {
-                        "value": "-125.0",
-                        "percentage": "-3.35%",
+                        "value": "-35.0",
+                        "percentage": "-0.97%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_서아프리카",
-                    "current_index": 3541.0,
-                    "previous_index": 3568.0,
+                    "current_index": 3483.0,
+                    "previous_index": 3541.0,
                     "weekly_change": {
-                        "value": "-27.0",
-                        "percentage": "-0.76%",
+                        "value": "-58.0",
+                        "percentage": "-1.64%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "KCCI_중국",
                     "current_index": 48.0,
-                    "previous_index": 49.0,
+                    "previous_index": 48.0,
                     "weekly_change": {
-                        "value": "-1.0",
-                        "percentage": "-2.04%",
-                        "color_class": "text-blue-500"
+                        "value": "0.0",
+                        "percentage": "0.00%",
+                        "color_class": "text-gray-700"
                     }
                 },
                 {
@@ -6292,11 +6326,11 @@
                 },
                 {
                     "route": "KCCI_동남아시아",
-                    "current_index": 856.0,
-                    "previous_index": 850.0,
+                    "current_index": 876.0,
+                    "previous_index": 856.0,
                     "weekly_change": {
-                        "value": "6.0",
-                        "percentage": "0.71%",
+                        "value": "20.0",
+                        "percentage": "2.34%",
                         "color_class": "text-red-500"
                     }
                 }
@@ -6312,91 +6346,91 @@
             "rows": [
                 {
                     "route": "SCFI_종합지수",
-                    "current_index": 1495.0,
-                    "previous_index": 1551.0,
+                    "current_index": 1451.0,
+                    "previous_index": 1495.0,
                     "weekly_change": {
-                        "value": "-56.0",
-                        "percentage": "-3.61%",
+                        "value": "-44.0",
+                        "percentage": "-2.94%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "SCFI_미주서안",
-                    "current_index": 2212.0,
-                    "previous_index": 2647.0,
+                    "current_index": 1823.0,
+                    "previous_index": 2212.0,
                     "weekly_change": {
-                        "value": "-435.0",
-                        "percentage": "-16.43%",
+                        "value": "-389.0",
+                        "percentage": "-17.59%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "SCFI_미주동안",
-                    "current_index": 2848.0,
-                    "previous_index": 3438.0,
+                    "current_index": 2600.0,
+                    "previous_index": 2848.0,
                     "weekly_change": {
-                        "value": "-590.0",
-                        "percentage": "-17.16%",
+                        "value": "-248.0",
+                        "percentage": "-8.71%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "SCFI_북유럽",
-                    "current_index": 1323.0,
-                    "previous_index": 1344.0,
+                    "current_index": 1417.0,
+                    "previous_index": 1323.0,
                     "weekly_change": {
-                        "value": "-21.0",
-                        "percentage": "-1.56%",
-                        "color_class": "text-blue-500"
+                        "value": "94.0",
+                        "percentage": "7.11%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_지중해",
                     "current_index": 2029.0,
-                    "previous_index": 1983.0,
+                    "previous_index": 2029.0,
                     "weekly_change": {
-                        "value": "46.0",
-                        "percentage": "2.32%",
-                        "color_class": "text-red-500"
+                        "value": "0.0",
+                        "percentage": "0.00%",
+                        "color_class": "text-gray-700"
                     }
                 },
                 {
                     "route": "SCFI_동남아시아",
-                    "current_index": 512.0,
-                    "previous_index": 481.0,
+                    "current_index": 531.0,
+                    "previous_index": 512.0,
                     "weekly_change": {
-                        "value": "31.0",
-                        "percentage": "6.44%",
+                        "value": "19.0",
+                        "percentage": "3.71%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_중동",
-                    "current_index": 1769.0,
-                    "previous_index": 1630.0,
+                    "current_index": 1805.0,
+                    "previous_index": 1769.0,
                     "weekly_change": {
-                        "value": "139.0",
-                        "percentage": "8.53%",
+                        "value": "36.0",
+                        "percentage": "2.04%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_호주/뉴질랜드",
-                    "current_index": 1619.0,
-                    "previous_index": 1493.0,
+                    "current_index": 1745.0,
+                    "previous_index": 1619.0,
                     "weekly_change": {
                         "value": "126.0",
-                        "percentage": "8.44%",
+                        "percentage": "7.78%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_남아메리카",
-                    "current_index": 2171.0,
-                    "previous_index": 2565.0,
+                    "current_index": 1691.0,
+                    "previous_index": 2171.0,
                     "weekly_change": {
-                        "value": "-394.0",
-                        "percentage": "-15.36%",
+                        "value": "-480.0",
+                        "percentage": "-22.11%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -6422,31 +6456,31 @@
                 },
                 {
                     "route": "SCFI_한국",
-                    "current_index": 138.0,
+                    "current_index": 141.0,
                     "previous_index": 138.0,
                     "weekly_change": {
-                        "value": "0.0",
-                        "percentage": "0.00%",
-                        "color_class": "text-gray-700"
+                        "value": "3.0",
+                        "percentage": "2.17%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_동부/서부 아프리카",
-                    "current_index": 3728.0,
-                    "previous_index": 3773.0,
+                    "current_index": 3645.0,
+                    "previous_index": 3728.0,
                     "weekly_change": {
-                        "value": "-45.0",
-                        "percentage": "-1.19%",
+                        "value": "-83.0",
+                        "percentage": "-2.23%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "SCFI_남아공",
-                    "current_index": 2786.0,
-                    "previous_index": 2850.0,
+                    "current_index": 2626.0,
+                    "previous_index": 2786.0,
                     "weekly_change": {
-                        "value": "-64.0",
-                        "percentage": "-2.25%",
+                        "value": "-160.0",
+                        "percentage": "-5.74%",
                         "color_class": "text-blue-500"
                     }
                 }
