@@ -2289,18 +2289,6 @@
                 "WCI_Rotterdam_New_York": 1664
             },
             {
-                "date": "2025-12-01",
-                "WCI_Composite_Index": 1957,
-                "WCI_Shanghai_Rotterdam": 2361,
-                "WCI_Rotterdam_Shanghai": 465,
-                "WCI_Shanghai_Genoa": 3004,
-                "WCI_Shanghai_to_Los_Angeles": 2103,
-                "WCI_Los_Angeles_to_Shanghai": 709,
-                "WCI_Shanghai_New_York": 2756,
-                "WCI_New_York_Rotterdam": 942,
-                "WCI_Rotterdam_New_York": 1636
-            },
-            {
                 "date": "2025-12-04",
                 "WCI_Composite_Index": 1927,
                 "WCI_Shanghai_Rotterdam": 2241,
@@ -2311,6 +2299,18 @@
                 "WCI_Shanghai_New_York": 2895,
                 "WCI_New_York_Rotterdam": 916,
                 "WCI_Rotterdam_New_York": 1632
+            },
+            {
+                "date": "2025-12-11",
+                "WCI_Composite_Index": 1957,
+                "WCI_Shanghai_Rotterdam": 2361,
+                "WCI_Rotterdam_Shanghai": 465,
+                "WCI_Shanghai_Genoa": 3004,
+                "WCI_Shanghai_to_Los_Angeles": 2103,
+                "WCI_Los_Angeles_to_Shanghai": 709,
+                "WCI_Shanghai_New_York": 2756,
+                "WCI_New_York_Rotterdam": 942,
+                "WCI_Rotterdam_New_York": 1636
             }
         ],
         "BLANKSAILING": [
