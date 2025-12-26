@@ -6175,6 +6175,10 @@
             {
                 "date": "2025-12-19",
                 "MBCI_Value": 1153
+            },
+            {
+                "date": "2025-12-26",
+                "MBCI_Value": 1169
             }
         ]
     },
@@ -6889,12 +6893,12 @@
             "rows": [
                 {
                     "route": "MBCI_종합지수",
-                    "current_index": 1153.0,
+                    "current_index": 1169.0,
                     "previous_index": 1153.0,
                     "weekly_change": {
-                        "value": "0",
-                        "percentage": "0.00%",
-                        "color_class": "text-gray-700"
+                        "value": "16",
+                        "percentage": "1.39%",
+                        "color_class": "text-red-500"
                     }
                 }
             ]
