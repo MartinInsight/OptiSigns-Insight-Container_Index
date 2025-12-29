@@ -843,15 +843,15 @@
                 "SCFI_US_East_Coast": 6418,
                 "SCFI_North_Europe": 2851,
                 "SCFI_Mediterranean": 3747,
-                "SCFI_Southeast_Asia": 655,
+                "SCFI_Southeast_Asia": 655.0,
                 "SCFI_Middle_East": 1472,
                 "SCFI_Australia_New_Zealand": 2147,
                 "SCFI_South_America": 5344,
                 "SCFI_Japan_West_Coast": 317,
                 "SCFI_Japan_East_Coast": 317,
                 "SCFI_Korea": 141,
-                "SCFI_East_West_Africa": 4521,
-                "SCFI_South_Africa": 3507
+                "SCFI_East_West_Africa": 4521.0,
+                "SCFI_South_Africa": 3507.0
             },
             {
                 "date": "2025-01-10",
@@ -860,15 +860,15 @@
                 "SCFI_US_East_Coast": 6629,
                 "SCFI_North_Europe": 2440,
                 "SCFI_Mediterranean": 3477,
-                "SCFI_Southeast_Asia": 564,
+                "SCFI_Southeast_Asia": 564.0,
                 "SCFI_Middle_East": 1397,
                 "SCFI_Australia_New_Zealand": 1838,
                 "SCFI_South_America": 4637,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 4412,
-                "SCFI_South_Africa": 3405
+                "SCFI_East_West_Africa": 4412.0,
+                "SCFI_South_Africa": 3405.0
             },
             {
                 "date": "2025-01-17",
@@ -877,15 +877,15 @@
                 "SCFI_US_East_Coast": 5960,
                 "SCFI_North_Europe": 2279,
                 "SCFI_Mediterranean": 3327,
-                "SCFI_Southeast_Asia": 524,
+                "SCFI_Southeast_Asia": 524.0,
                 "SCFI_Middle_East": 1311,
                 "SCFI_Australia_New_Zealand": 1478,
                 "SCFI_South_America": 4304,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 4259,
-                "SCFI_South_Africa": 3219
+                "SCFI_East_West_Africa": 4259.0,
+                "SCFI_South_Africa": 3219.0
             },
             {
                 "date": "2025-01-24",
@@ -894,15 +894,15 @@
                 "SCFI_US_East_Coast": 5776,
                 "SCFI_North_Europe": 2147,
                 "SCFI_Mediterranean": 3207,
-                "SCFI_Southeast_Asia": 508,
+                "SCFI_Southeast_Asia": 508.0,
                 "SCFI_Middle_East": 1210,
                 "SCFI_Australia_New_Zealand": 1369,
                 "SCFI_South_America": 3863,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 4213,
-                "SCFI_South_Africa": 3146
+                "SCFI_East_West_Africa": 4213.0,
+                "SCFI_South_Africa": 3146.0
             },
             {
                 "date": "2025-02-07",
@@ -911,15 +911,15 @@
                 "SCFI_US_East_Coast": 5490,
                 "SCFI_North_Europe": 1805,
                 "SCFI_Mediterranean": 3036,
-                "SCFI_Southeast_Asia": 454,
+                "SCFI_Southeast_Asia": 454.0,
                 "SCFI_Middle_East": 1191,
                 "SCFI_Australia_New_Zealand": 1085,
                 "SCFI_South_America": 3435,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 4166,
-                "SCFI_South_Africa": 3011
+                "SCFI_East_West_Africa": 4166.0,
+                "SCFI_South_Africa": 3011.0
             },
             {
                 "date": "2025-02-14",
@@ -928,15 +928,15 @@
                 "SCFI_US_East_Coast": 4825,
                 "SCFI_North_Europe": 1608,
                 "SCFI_Mediterranean": 2815,
-                "SCFI_Southeast_Asia": 457,
+                "SCFI_Southeast_Asia": 457.0,
                 "SCFI_Middle_East": 1144,
                 "SCFI_Australia_New_Zealand": 967,
                 "SCFI_South_America": 3359,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 137,
-                "SCFI_East_West_Africa": 4074,
-                "SCFI_South_Africa": 2867
+                "SCFI_East_West_Africa": 4074.0,
+                "SCFI_South_Africa": 2867.0
             },
             {
                 "date": "2025-02-21",
@@ -945,15 +945,15 @@
                 "SCFI_US_East_Coast": 3954,
                 "SCFI_North_Europe": 1578,
                 "SCFI_Mediterranean": 2624,
-                "SCFI_Southeast_Asia": 440,
+                "SCFI_Southeast_Asia": 440.0,
                 "SCFI_Middle_East": 1102,
                 "SCFI_Australia_New_Zealand": 826,
                 "SCFI_South_America": 2947,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 137,
-                "SCFI_East_West_Africa": 3987,
-                "SCFI_South_Africa": 2753
+                "SCFI_East_West_Africa": 3987.0,
+                "SCFI_South_Africa": 2753.0
             },
             {
                 "date": "2025-02-28",
@@ -962,15 +962,15 @@
                 "SCFI_US_East_Coast": 3508,
                 "SCFI_North_Europe": 1693,
                 "SCFI_Mediterranean": 2594,
-                "SCFI_Southeast_Asia": 441,
+                "SCFI_Southeast_Asia": 441.0,
                 "SCFI_Middle_East": 1015,
                 "SCFI_Australia_New_Zealand": 745,
                 "SCFI_South_America": 2770,
                 "SCFI_Japan_West_Coast": 305,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 137,
-                "SCFI_East_West_Africa": 3791,
-                "SCFI_South_Africa": 2526
+                "SCFI_East_West_Africa": 3791.0,
+                "SCFI_South_Africa": 2526.0
             },
             {
                 "date": "2025-03-07",
@@ -979,15 +979,15 @@
                 "SCFI_US_East_Coast": 3329,
                 "SCFI_North_Europe": 1582,
                 "SCFI_Mediterranean": 2517,
-                "SCFI_Southeast_Asia": 439,
+                "SCFI_Southeast_Asia": 439.0,
                 "SCFI_Middle_East": 975,
                 "SCFI_Australia_New_Zealand": 629,
                 "SCFI_South_America": 2422,
                 "SCFI_Japan_West_Coast": 304,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 137,
-                "SCFI_East_West_Africa": 3660,
-                "SCFI_South_Africa": 2294
+                "SCFI_East_West_Africa": 3660.0,
+                "SCFI_South_Africa": 2294.0
             },
             {
                 "date": "2025-03-14",
@@ -996,15 +996,15 @@
                 "SCFI_US_East_Coast": 2977,
                 "SCFI_North_Europe": 1342,
                 "SCFI_Mediterranean": 2295,
-                "SCFI_Southeast_Asia": 446,
+                "SCFI_Southeast_Asia": 446.0,
                 "SCFI_Middle_East": 976,
                 "SCFI_Australia_New_Zealand": 735,
                 "SCFI_South_America": 1945,
                 "SCFI_Japan_West_Coast": 304,
                 "SCFI_Japan_East_Coast": 308,
                 "SCFI_Korea": 137,
-                "SCFI_East_West_Africa": 3651,
-                "SCFI_South_Africa": 2207
+                "SCFI_East_West_Africa": 3651.0,
+                "SCFI_South_Africa": 2207.0
             },
             {
                 "date": "2025-03-21",
@@ -1013,15 +1013,15 @@
                 "SCFI_US_East_Coast": 2866,
                 "SCFI_North_Europe": 1306,
                 "SCFI_Mediterranean": 2195,
-                "SCFI_Southeast_Asia": 446,
+                "SCFI_Southeast_Asia": 446.0,
                 "SCFI_Middle_East": 1059,
                 "SCFI_Australia_New_Zealand": 755,
                 "SCFI_South_America": 1680,
                 "SCFI_Japan_West_Coast": 304,
                 "SCFI_Japan_East_Coast": 310,
                 "SCFI_Korea": 137,
-                "SCFI_East_West_Africa": 3634,
-                "SCFI_South_Africa": 2123
+                "SCFI_East_West_Africa": 3634.0,
+                "SCFI_South_Africa": 2123.0
             },
             {
                 "date": "2025-03-28",
@@ -1030,15 +1030,15 @@
                 "SCFI_US_East_Coast": 3194,
                 "SCFI_North_Europe": 1318,
                 "SCFI_Mediterranean": 2076,
-                "SCFI_Southeast_Asia": 433,
+                "SCFI_Southeast_Asia": 433.0,
                 "SCFI_Middle_East": 1188,
                 "SCFI_Australia_New_Zealand": 828,
                 "SCFI_South_America": 1669,
                 "SCFI_Japan_West_Coast": 319,
                 "SCFI_Japan_East_Coast": 324,
                 "SCFI_Korea": 141,
-                "SCFI_East_West_Africa": 3708,
-                "SCFI_South_Africa": 2172
+                "SCFI_East_West_Africa": 3708.0,
+                "SCFI_South_Africa": 2172.0
             },
             {
                 "date": "2025-04-04",
@@ -1047,15 +1047,15 @@
                 "SCFI_US_East_Coast": 3306,
                 "SCFI_North_Europe": 1336,
                 "SCFI_Mediterranean": 2028,
-                "SCFI_Southeast_Asia": 445,
+                "SCFI_Southeast_Asia": 445.0,
                 "SCFI_Middle_East": 1290,
                 "SCFI_Australia_New_Zealand": 839,
                 "SCFI_South_America": 1436,
                 "SCFI_Japan_West_Coast": 322,
                 "SCFI_Japan_East_Coast": 327,
                 "SCFI_Korea": 142,
-                "SCFI_East_West_Africa": 3749,
-                "SCFI_South_Africa": 2192
+                "SCFI_East_West_Africa": 3749.0,
+                "SCFI_South_Africa": 2192.0
             },
             {
                 "date": "2025-04-11",
@@ -1064,15 +1064,15 @@
                 "SCFI_US_East_Coast": 3226,
                 "SCFI_North_Europe": 1356,
                 "SCFI_Mediterranean": 2144,
-                "SCFI_Southeast_Asia": 448,
+                "SCFI_Southeast_Asia": 448.0,
                 "SCFI_Middle_East": 1309,
                 "SCFI_Australia_New_Zealand": 890,
                 "SCFI_South_America": 1566,
                 "SCFI_Japan_West_Coast": 316,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 142,
-                "SCFI_East_West_Africa": 3894,
-                "SCFI_South_Africa": 2151
+                "SCFI_East_West_Africa": 3894.0,
+                "SCFI_South_Africa": 2151.0
             },
             {
                 "date": "2025-04-18",
@@ -1081,15 +1081,15 @@
                 "SCFI_US_East_Coast": 3251,
                 "SCFI_North_Europe": 1316,
                 "SCFI_Mediterranean": 2161,
-                "SCFI_Southeast_Asia": 450,
+                "SCFI_Southeast_Asia": 450.0,
                 "SCFI_Middle_East": 1266,
                 "SCFI_Australia_New_Zealand": 891,
                 "SCFI_South_America": 1573,
                 "SCFI_Japan_West_Coast": 316,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 146,
-                "SCFI_East_West_Africa": 3853,
-                "SCFI_South_Africa": 2076
+                "SCFI_East_West_Africa": 3853.0,
+                "SCFI_South_Africa": 2076.0
             },
             {
                 "date": "2025-04-25",
@@ -1098,15 +1098,15 @@
                 "SCFI_US_East_Coast": 3257,
                 "SCFI_North_Europe": 1260,
                 "SCFI_Mediterranean": 2129,
-                "SCFI_Southeast_Asia": 454,
+                "SCFI_Southeast_Asia": 454.0,
                 "SCFI_Middle_East": 1161,
                 "SCFI_Australia_New_Zealand": 855,
                 "SCFI_South_America": 1414,
                 "SCFI_Japan_West_Coast": 316,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 146,
-                "SCFI_East_West_Africa": 3749,
-                "SCFI_South_Africa": 2043
+                "SCFI_East_West_Africa": 3749.0,
+                "SCFI_South_Africa": 2043.0
             },
             {
                 "date": "2025-04-30",
@@ -1115,15 +1115,15 @@
                 "SCFI_US_East_Coast": 3283,
                 "SCFI_North_Europe": 1200,
                 "SCFI_Mediterranean": 2089,
-                "SCFI_Southeast_Asia": 438,
+                "SCFI_Southeast_Asia": 438.0,
                 "SCFI_Middle_East": 1122,
                 "SCFI_Australia_New_Zealand": 814,
                 "SCFI_South_America": 1393,
                 "SCFI_Japan_West_Coast": 316,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 147,
-                "SCFI_East_West_Africa": 3729,
-                "SCFI_South_Africa": 2026
+                "SCFI_East_West_Africa": 3729.0,
+                "SCFI_South_Africa": 2026.0
             },
             {
                 "date": "2025-05-09",
@@ -1132,15 +1132,15 @@
                 "SCFI_US_East_Coast": 3335,
                 "SCFI_North_Europe": 1161,
                 "SCFI_Mediterranean": 2089,
-                "SCFI_Southeast_Asia": 430,
+                "SCFI_Southeast_Asia": 430.0,
                 "SCFI_Middle_East": 1145,
                 "SCFI_Australia_New_Zealand": 771,
                 "SCFI_South_America": 1472,
                 "SCFI_Japan_West_Coast": 316,
                 "SCFI_Japan_East_Coast": 320,
                 "SCFI_Korea": 148,
-                "SCFI_East_West_Africa": 3740,
-                "SCFI_South_Africa": 1975
+                "SCFI_East_West_Africa": 3740.0,
+                "SCFI_South_Africa": 1975.0
             },
             {
                 "date": "2025-05-16",
@@ -1149,15 +1149,15 @@
                 "SCFI_US_East_Coast": 4069,
                 "SCFI_North_Europe": 1154,
                 "SCFI_Mediterranean": 2082,
-                "SCFI_Southeast_Asia": 434,
+                "SCFI_Southeast_Asia": 434.0,
                 "SCFI_Middle_East": 1191,
                 "SCFI_Australia_New_Zealand": 737,
                 "SCFI_South_America": 1725,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 320,
                 "SCFI_Korea": 144,
-                "SCFI_East_West_Africa": 3714,
-                "SCFI_South_Africa": 1970
+                "SCFI_East_West_Africa": 3714.0,
+                "SCFI_South_Africa": 1970.0
             },
             {
                 "date": "2025-05-23",
@@ -1166,15 +1166,15 @@
                 "SCFI_US_East_Coast": 4284,
                 "SCFI_North_Europe": 1317,
                 "SCFI_Mediterranean": 2328,
-                "SCFI_Southeast_Asia": 440,
+                "SCFI_Southeast_Asia": 440.0,
                 "SCFI_Middle_East": 1387,
                 "SCFI_Australia_New_Zealand": 722,
                 "SCFI_South_America": 1934,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 320,
                 "SCFI_Korea": 140,
-                "SCFI_East_West_Africa": 3776,
-                "SCFI_South_Africa": 1991
+                "SCFI_East_West_Africa": 3776.0,
+                "SCFI_South_Africa": 1991.0
             },
             {
                 "date": "2025-05-30",
@@ -1183,15 +1183,15 @@
                 "SCFI_US_East_Coast": 6243,
                 "SCFI_North_Europe": 1587,
                 "SCFI_Mediterranean": 3061,
-                "SCFI_Southeast_Asia": 441,
+                "SCFI_Southeast_Asia": 441.0,
                 "SCFI_Middle_East": 1692,
                 "SCFI_Australia_New_Zealand": 709,
                 "SCFI_South_America": 2797,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 320,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 4060,
-                "SCFI_South_Africa": 2242
+                "SCFI_East_West_Africa": 4060.0,
+                "SCFI_South_Africa": 2242.0
             },
             {
                 "date": "2025-06-05",
@@ -1200,15 +1200,15 @@
                 "SCFI_US_East_Coast": 6939,
                 "SCFI_North_Europe": 1667,
                 "SCFI_Mediterranean": 3302,
-                "SCFI_Southeast_Asia": 446,
+                "SCFI_Southeast_Asia": 446.0,
                 "SCFI_Middle_East": 1929,
                 "SCFI_Australia_New_Zealand": 686,
                 "SCFI_South_America": 3959,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 320,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 4230,
-                "SCFI_South_Africa": 2301
+                "SCFI_East_West_Africa": 4230.0,
+                "SCFI_South_Africa": 2301.0
             },
             {
                 "date": "2025-06-13",
@@ -1217,15 +1217,15 @@
                 "SCFI_US_East_Coast": 6745,
                 "SCFI_North_Europe": 1844,
                 "SCFI_Mediterranean": 3190,
-                "SCFI_Southeast_Asia": 455,
+                "SCFI_Southeast_Asia": 455.0,
                 "SCFI_Middle_East": 2083,
                 "SCFI_Australia_New_Zealand": 745,
                 "SCFI_South_America": 4724,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 320,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4382,
-                "SCFI_South_Africa": 2397
+                "SCFI_East_West_Africa": 4382.0,
+                "SCFI_South_Africa": 2397.0
             },
             {
                 "date": "2025-06-20",
@@ -1234,15 +1234,15 @@
                 "SCFI_US_East_Coast": 5352,
                 "SCFI_North_Europe": 1835,
                 "SCFI_Mediterranean": 3063,
-                "SCFI_Southeast_Asia": 460,
+                "SCFI_Southeast_Asia": 460.0,
                 "SCFI_Middle_East": 2122,
                 "SCFI_Australia_New_Zealand": 763,
                 "SCFI_South_America": 5459,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 319,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4440,
-                "SCFI_South_Africa": 2476
+                "SCFI_East_West_Africa": 4440.0,
+                "SCFI_South_Africa": 2476.0
             },
             {
                 "date": "2025-06-27",
@@ -1251,15 +1251,15 @@
                 "SCFI_US_East_Coast": 4717,
                 "SCFI_North_Europe": 2030,
                 "SCFI_Mediterranean": 2985,
-                "SCFI_Southeast_Asia": 456,
+                "SCFI_Southeast_Asia": 456.0,
                 "SCFI_Middle_East": 2060,
                 "SCFI_Australia_New_Zealand": 836,
                 "SCFI_South_America": 6220,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4526,
-                "SCFI_South_Africa": 2641
+                "SCFI_East_West_Africa": 4526.0,
+                "SCFI_South_Africa": 2641.0
             },
             {
                 "date": "2025-07-04",
@@ -1268,15 +1268,15 @@
                 "SCFI_US_East_Coast": 4124,
                 "SCFI_North_Europe": 2101,
                 "SCFI_Mediterranean": 2869,
-                "SCFI_Southeast_Asia": 453,
+                "SCFI_Southeast_Asia": 453.0,
                 "SCFI_Middle_East": 1916,
                 "SCFI_Australia_New_Zealand": 853,
                 "SCFI_South_America": 6374,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4500,
-                "SCFI_South_Africa": 2653
+                "SCFI_East_West_Africa": 4500.0,
+                "SCFI_South_Africa": 2653.0
             },
             {
                 "date": "2025-07-11",
@@ -1285,15 +1285,15 @@
                 "SCFI_US_East_Coast": 4172,
                 "SCFI_North_Europe": 2099,
                 "SCFI_Mediterranean": 2667,
-                "SCFI_Southeast_Asia": 451,
+                "SCFI_Southeast_Asia": 451.0,
                 "SCFI_Middle_East": 1607,
                 "SCFI_Australia_New_Zealand": 1021,
                 "SCFI_South_America": 6221,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4437,
-                "SCFI_South_Africa": 2828
+                "SCFI_East_West_Africa": 4437.0,
+                "SCFI_South_Africa": 2828.0
             },
             {
                 "date": "2025-07-18",
@@ -1302,15 +1302,15 @@
                 "SCFI_US_East_Coast": 3612,
                 "SCFI_North_Europe": 2079,
                 "SCFI_Mediterranean": 2528,
-                "SCFI_Southeast_Asia": 442,
+                "SCFI_Southeast_Asia": 442.0,
                 "SCFI_Middle_East": 1321,
                 "SCFI_Australia_New_Zealand": 1042,
                 "SCFI_South_America": 5628,
                 "SCFI_Japan_West_Coast": 313,
                 "SCFI_Japan_East_Coast": 322,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4312,
-                "SCFI_South_Africa": 2851
+                "SCFI_East_West_Africa": 4312.0,
+                "SCFI_South_Africa": 2851.0
             },
             {
                 "date": "2025-07-25",
@@ -1319,15 +1319,15 @@
                 "SCFI_US_East_Coast": 3378,
                 "SCFI_North_Europe": 2090,
                 "SCFI_Mediterranean": 2418,
-                "SCFI_Southeast_Asia": 429,
+                "SCFI_Southeast_Asia": 429.0,
                 "SCFI_Middle_East": 1152,
                 "SCFI_Australia_New_Zealand": 1071,
                 "SCFI_South_America": 5188,
                 "SCFI_Japan_West_Coast": 315,
                 "SCFI_Japan_East_Coast": 324,
                 "SCFI_Korea": 135,
-                "SCFI_East_West_Africa": 4273,
-                "SCFI_South_Africa": 2961
+                "SCFI_East_West_Africa": 4273.0,
+                "SCFI_South_Africa": 2961.0
             },
             {
                 "date": "2025-08-01",
@@ -1336,15 +1336,15 @@
                 "SCFI_US_East_Coast": 3126,
                 "SCFI_North_Europe": 2051,
                 "SCFI_Mediterranean": 2333,
-                "SCFI_Southeast_Asia": 412,
+                "SCFI_Southeast_Asia": 412.0,
                 "SCFI_Middle_East": 1153,
                 "SCFI_Australia_New_Zealand": 1121,
                 "SCFI_South_America": 4662,
                 "SCFI_Japan_West_Coast": 313,
                 "SCFI_Japan_East_Coast": 322,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 4232,
-                "SCFI_South_Africa": 3022
+                "SCFI_East_West_Africa": 4232.0,
+                "SCFI_South_Africa": 3022.0
             },
             {
                 "date": "2025-08-08",
@@ -1353,15 +1353,15 @@
                 "SCFI_US_East_Coast": 2792,
                 "SCFI_North_Europe": 1961,
                 "SCFI_Mediterranean": 2318,
-                "SCFI_Southeast_Asia": 409,
+                "SCFI_Southeast_Asia": 409.0,
                 "SCFI_Middle_East": 1233,
                 "SCFI_Australia_New_Zealand": 1197,
                 "SCFI_South_America": 3811,
                 "SCFI_Japan_West_Coast": 313,
                 "SCFI_Japan_East_Coast": 322,
                 "SCFI_Korea": 136,
-                "SCFI_East_West_Africa": 4153,
-                "SCFI_South_Africa": 2996
+                "SCFI_East_West_Africa": 4153.0,
+                "SCFI_South_Africa": 2996.0
             },
             {
                 "date": "2025-08-14",
@@ -1370,15 +1370,15 @@
                 "SCFI_US_East_Coast": 2719,
                 "SCFI_North_Europe": 1820,
                 "SCFI_Mediterranean": 2279,
-                "SCFI_Southeast_Asia": 406,
+                "SCFI_Southeast_Asia": 406.0,
                 "SCFI_Middle_East": 1381,
                 "SCFI_Australia_New_Zealand": 1239,
                 "SCFI_South_America": 3340,
                 "SCFI_Japan_West_Coast": 313,
                 "SCFI_Japan_East_Coast": 324,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 4074,
-                "SCFI_South_Africa": 3008
+                "SCFI_East_West_Africa": 4074.0,
+                "SCFI_South_Africa": 3008.0
             },
             {
                 "date": "2025-08-22",
@@ -1387,15 +1387,15 @@
                 "SCFI_US_East_Coast": 2613,
                 "SCFI_North_Europe": 1668,
                 "SCFI_Mediterranean": 2225,
-                "SCFI_Southeast_Asia": 398,
+                "SCFI_Southeast_Asia": 398.0,
                 "SCFI_Middle_East": 1479,
                 "SCFI_Australia_New_Zealand": 1267,
                 "SCFI_South_America": 3107,
                 "SCFI_Japan_West_Coast": 314,
                 "SCFI_Japan_East_Coast": 323,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 4015,
-                "SCFI_South_Africa": 2996
+                "SCFI_East_West_Africa": 4015.0,
+                "SCFI_South_Africa": 2996.0
             },
             {
                 "date": "2025-08-29",
@@ -1404,15 +1404,15 @@
                 "SCFI_US_East_Coast": 2866,
                 "SCFI_North_Europe": 1481,
                 "SCFI_Mediterranean": 2145,
-                "SCFI_Southeast_Asia": 419,
+                "SCFI_Southeast_Asia": 419.0,
                 "SCFI_Middle_East": 1579,
                 "SCFI_Australia_New_Zealand": 1325,
                 "SCFI_South_America": 3027,
                 "SCFI_Japan_West_Coast": 314,
                 "SCFI_Japan_East_Coast": 323,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 3977,
-                "SCFI_South_Africa": 2984
+                "SCFI_East_West_Africa": 3977.0,
+                "SCFI_South_Africa": 2984.0
             },
             {
                 "date": "2025-09-05",
@@ -1421,15 +1421,15 @@
                 "SCFI_US_East_Coast": 3073,
                 "SCFI_North_Europe": 1315,
                 "SCFI_Mediterranean": 1971,
-                "SCFI_Southeast_Asia": 419,
+                "SCFI_Southeast_Asia": 419.0,
                 "SCFI_Middle_East": 1519,
                 "SCFI_Australia_New_Zealand": 1313,
                 "SCFI_South_America": 3199,
                 "SCFI_Japan_West_Coast": 313,
                 "SCFI_Japan_East_Coast": 322,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 3994,
-                "SCFI_South_Africa": 2990
+                "SCFI_East_West_Africa": 3994.0,
+                "SCFI_South_Africa": 2990.0
             },
             {
                 "date": "2025-09-12",
@@ -1438,15 +1438,15 @@
                 "SCFI_US_East_Coast": 3307,
                 "SCFI_North_Europe": 1154,
                 "SCFI_Mediterranean": 1738,
-                "SCFI_Southeast_Asia": 420,
+                "SCFI_Southeast_Asia": 420.0,
                 "SCFI_Middle_East": 1273,
                 "SCFI_Australia_New_Zealand": 1259,
                 "SCFI_South_America": 3018,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3934,
-                "SCFI_South_Africa": 2977
+                "SCFI_East_West_Africa": 3934.0,
+                "SCFI_South_Africa": 2977.0
             },
             {
                 "date": "2025-09-19",
@@ -1455,15 +1455,15 @@
                 "SCFI_US_East_Coast": 2557,
                 "SCFI_North_Europe": 1052,
                 "SCFI_Mediterranean": 1638,
-                "SCFI_Southeast_Asia": 422,
+                "SCFI_Southeast_Asia": 422.0,
                 "SCFI_Middle_East": 991,
                 "SCFI_Australia_New_Zealand": 1158,
                 "SCFI_South_America": 2497,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3770,
-                "SCFI_South_Africa": 2859
+                "SCFI_East_West_Africa": 3770.0,
+                "SCFI_South_Africa": 2859.0
             },
             {
                 "date": "2025-09-26",
@@ -1472,15 +1472,15 @@
                 "SCFI_US_East_Coast": 2385,
                 "SCFI_North_Europe": 971,
                 "SCFI_Mediterranean": 1485,
-                "SCFI_Southeast_Asia": 418,
+                "SCFI_Southeast_Asia": 418.0,
                 "SCFI_Middle_East": 843,
                 "SCFI_Australia_New_Zealand": 1093,
                 "SCFI_South_America": 2133,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3739,
-                "SCFI_South_Africa": 2826
+                "SCFI_East_West_Africa": 3739.0,
+                "SCFI_South_Africa": 2826.0
             },
             {
                 "date": "2025-10-10",
@@ -1489,15 +1489,15 @@
                 "SCFI_US_East_Coast": 2452,
                 "SCFI_North_Europe": 1068,
                 "SCFI_Mediterranean": 1558,
-                "SCFI_Southeast_Asia": 411,
+                "SCFI_Southeast_Asia": 411.0,
                 "SCFI_Middle_East": 975,
                 "SCFI_Australia_New_Zealand": 1159,
                 "SCFI_South_America": 2446,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3763,
-                "SCFI_South_Africa": 2830
+                "SCFI_East_West_Africa": 3763.0,
+                "SCFI_South_Africa": 2830.0
             },
             {
                 "date": "2025-10-17",
@@ -1506,15 +1506,15 @@
                 "SCFI_US_East_Coast": 2853,
                 "SCFI_North_Europe": 1145,
                 "SCFI_Mediterranean": 1613,
-                "SCFI_Southeast_Asia": 449,
+                "SCFI_Southeast_Asia": 449.0,
                 "SCFI_Middle_East": 1248,
                 "SCFI_Australia_New_Zealand": 1311,
                 "SCFI_South_America": 2658,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3703,
-                "SCFI_South_Africa": 2849
+                "SCFI_East_West_Africa": 3703.0,
+                "SCFI_South_Africa": 2849.0
             },
             {
                 "date": "2025-10-24",
@@ -1523,15 +1523,15 @@
                 "SCFI_US_East_Coast": 3032,
                 "SCFI_North_Europe": 1246,
                 "SCFI_Mediterranean": 1764,
-                "SCFI_Southeast_Asia": 466,
+                "SCFI_Southeast_Asia": 466.0,
                 "SCFI_Middle_East": 1423,
                 "SCFI_Australia_New_Zealand": 1385,
                 "SCFI_South_America": 2619,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3755,
-                "SCFI_South_Africa": 2851
+                "SCFI_East_West_Africa": 3755.0,
+                "SCFI_South_Africa": 2851.0
             },
             {
                 "date": "2025-10-31",
@@ -1540,15 +1540,15 @@
                 "SCFI_US_East_Coast": 3438,
                 "SCFI_North_Europe": 1344,
                 "SCFI_Mediterranean": 1983,
-                "SCFI_Southeast_Asia": 481,
+                "SCFI_Southeast_Asia": 481.0,
                 "SCFI_Middle_East": 1630,
                 "SCFI_Australia_New_Zealand": 1493,
                 "SCFI_South_America": 2565,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3773,
-                "SCFI_South_Africa": 2850
+                "SCFI_East_West_Africa": 3773.0,
+                "SCFI_South_Africa": 2850.0
             },
             {
                 "date": "2025-11-07",
@@ -1557,15 +1557,15 @@
                 "SCFI_US_East_Coast": 2848,
                 "SCFI_North_Europe": 1323,
                 "SCFI_Mediterranean": 2029,
-                "SCFI_Southeast_Asia": 512,
+                "SCFI_Southeast_Asia": 512.0,
                 "SCFI_Middle_East": 1769,
                 "SCFI_Australia_New_Zealand": 1619,
                 "SCFI_South_America": 2171,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3728,
-                "SCFI_South_Africa": 2786
+                "SCFI_East_West_Africa": 3728.0,
+                "SCFI_South_Africa": 2786.0
             },
             {
                 "date": "2025-11-14",
@@ -1574,15 +1574,15 @@
                 "SCFI_US_East_Coast": 2600,
                 "SCFI_North_Europe": 1417,
                 "SCFI_Mediterranean": 2029,
-                "SCFI_Southeast_Asia": 531,
+                "SCFI_Southeast_Asia": 531.0,
                 "SCFI_Middle_East": 1805,
                 "SCFI_Australia_New_Zealand": 1745,
                 "SCFI_South_America": 1691,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 141,
-                "SCFI_East_West_Africa": 3645,
-                "SCFI_South_Africa": 2626
+                "SCFI_East_West_Africa": 3645.0,
+                "SCFI_South_Africa": 2626.0
             },
             {
                 "date": "2025-11-21",
@@ -1591,15 +1591,15 @@
                 "SCFI_US_East_Coast": 2384,
                 "SCFI_North_Europe": 1367,
                 "SCFI_Mediterranean": 2055,
-                "SCFI_Southeast_Asia": 540,
+                "SCFI_Southeast_Asia": 540.0,
                 "SCFI_Middle_East": 1753,
                 "SCFI_Australia_New_Zealand": 1539,
                 "SCFI_South_America": 1386,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 145,
-                "SCFI_East_West_Africa": 3557,
-                "SCFI_South_Africa": 2447
+                "SCFI_East_West_Africa": 3557.0,
+                "SCFI_South_Africa": 2447.0
             },
             {
                 "date": "2025-11-28",
@@ -1608,15 +1608,15 @@
                 "SCFI_US_East_Coast": 2428,
                 "SCFI_North_Europe": 1404,
                 "SCFI_Mediterranean": 2232,
-                "SCFI_Southeast_Asia": 540,
+                "SCFI_Southeast_Asia": 540.0,
                 "SCFI_Middle_East": 1697,
                 "SCFI_Australia_New_Zealand": 1314,
                 "SCFI_South_America": 1832,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 143,
-                "SCFI_East_West_Africa": 3493,
-                "SCFI_South_Africa": 2296
+                "SCFI_East_West_Africa": 3493.0,
+                "SCFI_South_Africa": 2296.0
             },
             {
                 "date": "2025-12-05",
@@ -1625,15 +1625,15 @@
                 "SCFI_US_East_Coast": 2315,
                 "SCFI_North_Europe": 1400,
                 "SCFI_Mediterranean": 2300,
-                "SCFI_Southeast_Asia": 543,
+                "SCFI_Southeast_Asia": 543.0,
                 "SCFI_Middle_East": 1781,
                 "SCFI_Australia_New_Zealand": 1276,
                 "SCFI_South_America": 1689,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 143,
-                "SCFI_East_West_Africa": 3457,
-                "SCFI_South_Africa": 2222
+                "SCFI_East_West_Africa": 3457.0,
+                "SCFI_South_Africa": 2222.0
             },
             {
                 "date": "2025-12-12",
@@ -1642,15 +1642,15 @@
                 "SCFI_US_East_Coast": 2652,
                 "SCFI_North_Europe": 1538,
                 "SCFI_Mediterranean": 2737,
-                "SCFI_Southeast_Asia": 556,
+                "SCFI_Southeast_Asia": 556.0,
                 "SCFI_Middle_East": 1881,
                 "SCFI_Australia_New_Zealand": 1241,
                 "SCFI_South_America": 1486,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 3393,
-                "SCFI_South_Africa": 2218
+                "SCFI_East_West_Africa": 3393.0,
+                "SCFI_South_Africa": 2218.0
             },
             {
                 "date": "2025-12-19",
@@ -1659,15 +1659,32 @@
                 "SCFI_US_East_Coast": 2846,
                 "SCFI_North_Europe": 1533,
                 "SCFI_Mediterranean": 2833,
-                "SCFI_Southeast_Asia": 542,
+                "SCFI_Southeast_Asia": 542.0,
                 "SCFI_Middle_East": 2015,
                 "SCFI_Australia_New_Zealand": 1263,
                 "SCFI_South_America": 1291,
                 "SCFI_Japan_West_Coast": 312,
                 "SCFI_Japan_East_Coast": 321,
                 "SCFI_Korea": 138,
-                "SCFI_East_West_Africa": 3238,
-                "SCFI_South_Africa": 2212
+                "SCFI_East_West_Africa": 3238.0,
+                "SCFI_South_Africa": 2212.0
+            },
+            {
+                "date": "2025-12-26",
+                "SCFI_Composite_Index": 1656,
+                "SCFI_US_West_Coast": 2188,
+                "SCFI_US_East_Coast": 3033,
+                "SCFI_North_Europe": 1690,
+                "SCFI_Mediterranean": 3143,
+                "SCFI_Southeast_Asia": null,
+                "SCFI_Middle_East": 2120,
+                "SCFI_Australia_New_Zealand": 1346,
+                "SCFI_South_America": 1292,
+                "SCFI_Japan_West_Coast": 312,
+                "SCFI_Japan_East_Coast": 321,
+                "SCFI_Korea": 138,
+                "SCFI_East_West_Africa": null,
+                "SCFI_South_Africa": null
             }
         ],
         "WCI": [
@@ -6316,92 +6333,88 @@
             "rows": [
                 {
                     "route": "SCFI_종합지수",
-                    "current_index": 1553.0,
-                    "previous_index": 1506.0,
+                    "current_index": 1656.0,
+                    "previous_index": 1553.0,
                     "weekly_change": {
-                        "value": "47.0",
-                        "percentage": "3.12%",
+                        "value": "103.0",
+                        "percentage": "6.63%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_미주서안",
-                    "current_index": 1992.0,
-                    "previous_index": 1780.0,
+                    "current_index": 2188.0,
+                    "previous_index": 1992.0,
                     "weekly_change": {
-                        "value": "212.0",
-                        "percentage": "11.91%",
+                        "value": "196.0",
+                        "percentage": "9.84%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_미주동안",
-                    "current_index": 2846.0,
-                    "previous_index": 2652.0,
+                    "current_index": 3033.0,
+                    "previous_index": 2846.0,
                     "weekly_change": {
-                        "value": "194.0",
-                        "percentage": "7.32%",
+                        "value": "187.0",
+                        "percentage": "6.57%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_북유럽",
-                    "current_index": 1533.0,
-                    "previous_index": 1538.0,
+                    "current_index": 1690.0,
+                    "previous_index": 1533.0,
                     "weekly_change": {
-                        "value": "-5.0",
-                        "percentage": "-0.33%",
-                        "color_class": "text-blue-500"
+                        "value": "157.0",
+                        "percentage": "10.24%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_지중해",
-                    "current_index": 2833.0,
-                    "previous_index": 2737.0,
+                    "current_index": 3143.0,
+                    "previous_index": 2833.0,
                     "weekly_change": {
-                        "value": "96.0",
-                        "percentage": "3.51%",
+                        "value": "310.0",
+                        "percentage": "10.94%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_동남아시아",
-                    "current_index": 542.0,
-                    "previous_index": 556.0,
-                    "weekly_change": {
-                        "value": "-14.0",
-                        "percentage": "-2.52%",
-                        "color_class": "text-blue-500"
-                    }
+                    "current_index": null,
+                    "previous_index": 542.0,
+                    "weekly_change": null
                 },
                 {
                     "route": "SCFI_중동",
-                    "current_index": 2015.0,
-                    "previous_index": 1881.0,
+                    "current_index": 2120.0,
+                    "previous_index": 2015.0,
                     "weekly_change": {
-                        "value": "134.0",
-                        "percentage": "7.12%",
+                        "value": "105.0",
+                        "percentage": "5.21%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_호주/뉴질랜드",
-                    "current_index": 1263.0,
-                    "previous_index": 1241.0,
+                    "current_index": 1346.0,
+                    "previous_index": 1263.0,
                     "weekly_change": {
-                        "value": "22.0",
-                        "percentage": "1.77%",
+                        "value": "83.0",
+                        "percentage": "6.57%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "SCFI_남아메리카",
-                    "current_index": 1291.0,
-                    "previous_index": 1486.0,
+                    "current_index": 1292.0,
+                    "previous_index": 1291.0,
                     "weekly_change": {
-                        "value": "-195.0",
-                        "percentage": "-13.12%",
-                        "color_class": "text-blue-500"
+                        "value": "1.0",
+                        "percentage": "0.08%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
@@ -6427,32 +6440,24 @@
                 {
                     "route": "SCFI_한국",
                     "current_index": 138.0,
-                    "previous_index": 139.0,
+                    "previous_index": 138.0,
                     "weekly_change": {
-                        "value": "-1.0",
-                        "percentage": "-0.72%",
-                        "color_class": "text-blue-500"
+                        "value": "0.0",
+                        "percentage": "0.00%",
+                        "color_class": "text-gray-700"
                     }
                 },
                 {
                     "route": "SCFI_동부/서부 아프리카",
-                    "current_index": 3238.0,
-                    "previous_index": 3393.0,
-                    "weekly_change": {
-                        "value": "-155.0",
-                        "percentage": "-4.57%",
-                        "color_class": "text-blue-500"
-                    }
+                    "current_index": null,
+                    "previous_index": 3238.0,
+                    "weekly_change": null
                 },
                 {
                     "route": "SCFI_남아공",
-                    "current_index": 2212.0,
-                    "previous_index": 2218.0,
-                    "weekly_change": {
-                        "value": "-6.0",
-                        "percentage": "-0.27%",
-                        "color_class": "text-blue-500"
-                    }
+                    "current_index": null,
+                    "previous_index": 2212.0,
+                    "weekly_change": null
                 }
             ]
         },
