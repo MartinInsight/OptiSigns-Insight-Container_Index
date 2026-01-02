@@ -2419,6 +2419,15 @@
                 "BLANKSAILING_Premier_Alliance": 6,
                 "BLANKSAILING_Others_Independent": 11,
                 "BLANKSAILING_Total": 8
+            },
+            {
+                "date": "2026-01-02",
+                "BLANKSAILING_Gemini_Cooperation": 0,
+                "BLANKSAILING_MSC": 5,
+                "BLANKSAILING_OCEAN_Alliance": 6,
+                "BLANKSAILING_Premier_Alliance": 7,
+                "BLANKSAILING_Others_Independent": 6,
+                "BLANKSAILING_Total": 5
             }
         ],
         "FBX": [
@@ -6170,6 +6179,10 @@
             {
                 "date": "2025-12-26",
                 "MBCI_Value": 1169
+            },
+            {
+                "date": "2026-01-02",
+                "MBCI_Value": 1169
             }
         ]
     },
@@ -6572,6 +6585,16 @@
             "rows": [
                 {
                     "route": "BLANKSAILING_Gemini Cooperation",
+                    "current_index": 0.0,
+                    "previous_index": 5.0,
+                    "weekly_change": {
+                        "value": "-5",
+                        "percentage": "-100.00%",
+                        "color_class": "text-blue-500"
+                    }
+                },
+                {
+                    "route": "BLANKSAILING_MSC",
                     "current_index": 5.0,
                     "previous_index": 5.0,
                     "weekly_change": {
@@ -6581,52 +6604,42 @@
                     }
                 },
                 {
-                    "route": "BLANKSAILING_MSC",
-                    "current_index": 5.0,
-                    "previous_index": 6.0,
-                    "weekly_change": {
-                        "value": "-1",
-                        "percentage": "-16.67%",
-                        "color_class": "text-blue-500"
-                    }
-                },
-                {
                     "route": "BLANKSAILING_OCEAN Alliance",
-                    "current_index": 8.0,
-                    "previous_index": 9.0,
+                    "current_index": 6.0,
+                    "previous_index": 8.0,
                     "weekly_change": {
-                        "value": "-1",
-                        "percentage": "-11.11%",
+                        "value": "-2",
+                        "percentage": "-25.00%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Premier Alliance",
-                    "current_index": 6.0,
-                    "previous_index": 9.0,
+                    "current_index": 7.0,
+                    "previous_index": 6.0,
                     "weekly_change": {
-                        "value": "-3",
-                        "percentage": "-33.33%",
-                        "color_class": "text-blue-500"
+                        "value": "1",
+                        "percentage": "16.67%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Others/Independent",
-                    "current_index": 11.0,
-                    "previous_index": 14.0,
+                    "current_index": 6.0,
+                    "previous_index": 11.0,
                     "weekly_change": {
-                        "value": "-3",
-                        "percentage": "-21.43%",
+                        "value": "-5",
+                        "percentage": "-45.45%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Total",
-                    "current_index": 8.0,
-                    "previous_index": 9.0,
+                    "current_index": 5.0,
+                    "previous_index": 8.0,
                     "weekly_change": {
-                        "value": "-1",
-                        "percentage": "-11.11%",
+                        "value": "-3",
+                        "percentage": "-37.50%",
                         "color_class": "text-blue-500"
                     }
                 }
@@ -6873,11 +6886,11 @@
                 {
                     "route": "MBCI_종합지수",
                     "current_index": 1169.0,
-                    "previous_index": 1153.0,
+                    "previous_index": 1169.0,
                     "weekly_change": {
-                        "value": "16",
-                        "percentage": "1.39%",
-                        "color_class": "text-red-500"
+                        "value": "0",
+                        "percentage": "0.00%",
+                        "color_class": "text-gray-700"
                     }
                 }
             ]
