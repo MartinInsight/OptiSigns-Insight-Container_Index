@@ -142,9 +142,10 @@ SECTION_COLUMN_MAPPINGS = {
         "section_name_cell": (0, 69), # BR1
         "date_col_idx": 69, # BR열
         "data_start_col_idx": 70, # BS열
-        "data_end_col_idx": 77, # BZ열
+        "data_end_col_idx": 78, # CA열
         "sub_headers_map": { # Headers from row 2 (index 1)
             "각 항로별($/FEU)": "Date", # BR2
+            "종합지수": "Composite_Index",
             "동아시아 → 북유럽": "East_Asia_North_Europe",
             "북유럽 → 동아시아": "North_Europe_East_Asia",
             "동아시아 → 미주서안": "East_Asia_US_West_Coast",
@@ -156,13 +157,13 @@ SECTION_COLUMN_MAPPINGS = {
         }
     },
     "MBCI": {
-        "section_name_cell": (0, 79), # CB1
-        "date_col_idx": 79, # CB열
-        "data_start_col_idx": 80, # CC열
-        "data_end_col_idx": 80, # CC열
+        "section_name_cell": (0, 80), # CC1
+        "date_col_idx": 80, # CC열
+        "data_start_col_idx": 81, # CD열
+        "data_end_col_idx": 81, # CD열
         "sub_headers_map": { # Headers from row 2 (index 1)
-            "Index(종합지수)": "Date", # CB2
-            "MBCI": "Value", # CC2
+            "Index(종합지수)": "Date", # CC2
+            "MBCI": "Value", # CD2
         }
     }
 }
@@ -234,12 +235,12 @@ TABLE_DATA_CELL_MAPPINGS = {
     },
     "XSI": {
         "current_date_cell": (46, 0), # A47
-        "current_index_cols_range": (1, 8), # B47:I47
+        "current_index_cols_range": (1, 9), # B47:j47
         "previous_date_cell": (47, 0), # A48
-        "previous_index_cols_range": (1, 8), # B48:I48 (N48 대신 I48로 수정하여 데이터 열 범위와 일치시킴)
-        "weekly_change_row_idx": 48, # B49:I49 (N49 대신 I49로 수정하여 데이터 열 범위와 일치시킴)
+        "previous_index_cols_range": (1, 9), # B48:j48 (N48 대신 j48로 수정하여 데이터 열 범위와 일치시킴)
+        "weekly_change_row_idx": 48, # B49:j49 (N49 대신 j49로 수정하여 데이터 열 범위와 일치시킴)
         "route_names": [
-            "동아시아 → 북유럽", "북유럽 → 동아시아", "동아시아 → 미주서안",
+            "종합지수", "동아시아 → 북유럽", "북유럽 → 동아시아", "동아시아 → 미주서안",
             "미주서안 → 동아시아", "동아시아 → 남미동안", "북유럽 → 미주동안",
             "미주동안 → 북유럽", "북유럽 → 남미동안"
         ]
