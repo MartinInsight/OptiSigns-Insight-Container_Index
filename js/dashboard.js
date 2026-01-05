@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "유럽 → 남미서안": "FBX_Europe_South_America_West_Coast"
         },
         XSI: {
+            "종합지수": "XSI_Composite_Index",
             "동아시아 → 북유럽": "XSI_East_Asia_North_Europe",
             "북유럽 → 동아시아": "XSI_North_Europe_East_Asia",
             "동아시아 → 미주서안": "XSI_East_Asia_US_West_Coast",
