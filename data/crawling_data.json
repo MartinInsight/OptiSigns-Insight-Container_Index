@@ -7066,142 +7066,142 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "81.28",
-            "LA_WeatherStatus": "맑음(clear sky)",
-            "LA_Humidity": "60",
-            "LA_WindSpeed": "11.5",
-            "LA_Pressure": "1013",
+            "LA_Temperature": "60.8",
+            "LA_WeatherStatus": "구름 조금(few clouds)",
+            "LA_Humidity": "83",
+            "LA_WindSpeed": "8.05",
+            "LA_Pressure": "1019",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:11:53 AM",
-            "LA_Sunset": "7:44:30 PM"
+            "LA_Sunrise": "6:59:02 AM",
+            "LA_Sunset": "4:57:27 PM"
         },
         "forecast": [
             {
-                "date": "8/11/2025",
-                "min_temp": "69.9",
-                "max_temp": "81.4",
+                "date": "1/5/2026",
+                "min_temp": "56.1",
+                "max_temp": "60.4",
+                "status": "약한 비(light rain)"
+            },
+            {
+                "date": "1/6/2026",
+                "min_temp": "55",
+                "max_temp": "63.9",
+                "status": "약한 비(light rain)"
+            },
+            {
+                "date": "1/7/2026",
+                "min_temp": "56",
+                "max_temp": "66.6",
+                "status": "구름 많음(broken clouds)"
+            },
+            {
+                "date": "1/8/2026",
+                "min_temp": "53.9",
+                "max_temp": "64.6",
                 "status": "맑음(clear sky)"
             },
             {
-                "date": "8/12/2025",
-                "min_temp": "65.2",
-                "max_temp": "88.7",
+                "date": "1/9/2026",
+                "min_temp": "54",
+                "max_temp": "67.9",
                 "status": "맑음(clear sky)"
             },
             {
-                "date": "8/13/2025",
-                "min_temp": "72.9",
-                "max_temp": "86",
-                "status": "맑음(clear sky)"
-            },
-            {
-                "date": "8/14/2025",
-                "min_temp": "72.6",
-                "max_temp": "85.8",
-                "status": "맑음(clear sky)"
-            },
-            {
-                "date": "8/15/2025",
-                "min_temp": "68.5",
-                "max_temp": "84.3",
-                "status": "맑음(clear sky)"
-            },
-            {
-                "date": "8/16/2025",
-                "min_temp": "66.3",
-                "max_temp": "75.7",
+                "date": "1/10/2026",
+                "min_temp": "53",
+                "max_temp": "61.6",
                 "status": "맑음(clear sky)"
             }
         ]
     },
     "exchange_rate": [
         {
-            "date": "2025-07-11",
-            "rate": 1379.0
+            "date": "2025-12-05",
+            "rate": 1474.0
         },
         {
-            "date": "2025-07-14",
-            "rate": 1383.0
+            "date": "2025-12-08",
+            "rate": 1470.0
         },
         {
-            "date": "2025-07-15",
-            "rate": 1387.0
+            "date": "2025-12-09",
+            "rate": 1469.0
         },
         {
-            "date": "2025-07-16",
-            "rate": 1386.0
+            "date": "2025-12-10",
+            "rate": 1470.0
         },
         {
-            "date": "2025-07-17",
-            "rate": 1393.0
+            "date": "2025-12-11",
+            "rate": 1472.0
         },
         {
-            "date": "2025-07-18",
-            "rate": 1391.0
+            "date": "2025-12-12",
+            "rate": 1475.0
         },
         {
-            "date": "2025-07-21",
-            "rate": 1383.0
+            "date": "2025-12-15",
+            "rate": 1468.0
         },
         {
-            "date": "2025-07-22",
-            "rate": 1381.0
+            "date": "2025-12-16",
+            "rate": 1473.0
         },
         {
-            "date": "2025-07-23",
-            "rate": 1375.0
+            "date": "2025-12-17",
+            "rate": 1475.0
         },
         {
-            "date": "2025-07-24",
-            "rate": 1373.0
+            "date": "2025-12-18",
+            "rate": 1475.0
         },
         {
-            "date": "2025-07-25",
-            "rate": 1383.0
+            "date": "2025-12-19",
+            "rate": 1476.0
         },
         {
-            "date": "2025-07-28",
-            "rate": 1389.0
+            "date": "2025-12-22",
+            "rate": 1478.0
         },
         {
-            "date": "2025-07-29",
-            "rate": 1390.0
+            "date": "2025-12-23",
+            "rate": 1480.0
         },
         {
-            "date": "2025-07-30",
-            "rate": 1394.0
+            "date": "2025-12-24",
+            "rate": 1445.0
         },
         {
-            "date": "2025-07-31",
-            "rate": 1393.0
+            "date": "2025-12-25",
+            "rate": 1448.0
         },
         {
-            "date": "2025-08-01",
-            "rate": 1389.0
+            "date": "2025-12-26",
+            "rate": 1442.0
         },
         {
-            "date": "2025-08-04",
-            "rate": 1385.0
+            "date": "2025-12-29",
+            "rate": 1436.0
         },
         {
-            "date": "2025-08-05",
-            "rate": 1388.0
+            "date": "2025-12-30",
+            "rate": 1439.0
         },
         {
-            "date": "2025-08-06",
-            "rate": 1385.0
+            "date": "2025-12-31",
+            "rate": 1444.0
         },
         {
-            "date": "2025-08-07",
-            "rate": 1386.0
+            "date": "2026-01-01",
+            "rate": 1444.0
         },
         {
-            "date": "2025-08-08",
-            "rate": 1389.0
+            "date": "2026-01-02",
+            "rate": 1443.0
         },
         {
-            "date": "2025-08-11",
-            "rate": 1391.0
+            "date": "2026-01-05",
+            "rate": 1445.0
         }
     ]
 }
