@@ -2288,15 +2288,6 @@
         ],
         "BLANKSAILING": [
             {
-                "date": "2025-10-10",
-                "BLANKSAILING_Gemini_Cooperation": 1,
-                "BLANKSAILING_MSC": 6,
-                "BLANKSAILING_OCEAN_Alliance": 11,
-                "BLANKSAILING_Premier_Alliance": 9,
-                "BLANKSAILING_Others_Independent": 7,
-                "BLANKSAILING_Total": 6
-            },
-            {
                 "date": "2025-10-17",
                 "BLANKSAILING_Gemini_Cooperation": 2,
                 "BLANKSAILING_MSC": 7,
@@ -3244,21 +3235,25 @@
                 "FBX_North_Europe_US_East_Coast": 1522,
                 "FBX_Europe_South_America_East_Coast": 814,
                 "FBX_Europe_South_America_West_Coast": 2295
+            },
+            {
+                "date": "2026-01-09",
+                "FBX_Composite_Index": 2437,
+                "FBX_China_EA_US_West_Coast": 2617,
+                "FBX_US_West_Coast_China_EA": 254,
+                "FBX_China_EA_US_East_Coast": 3757,
+                "FBX_US_East_Coast_China_EA": 391,
+                "FBX_China_EA_North_Europe": 3000,
+                "FBX_North_Europe_China_EA": 461,
+                "FBX_China_EA_Mediterranean": 4844,
+                "FBX_Mediterranean_China_EA": 546,
+                "FBX_US_East_Coast_North_Europe": 461,
+                "FBX_North_Europe_US_East_Coast": 1551,
+                "FBX_Europe_South_America_East_Coast": 816,
+                "FBX_Europe_South_America_West_Coast": 2277
             }
         ],
         "XSI": [
-            {
-                "date": "2025-01-08",
-                "XSI_Composite_Index": 2690,
-                "XSI_East_Asia_North_Europe": 4914,
-                "XSI_North_Europe_East_Asia": 303,
-                "XSI_East_Asia_US_West_Coast": 5684,
-                "XSI_US_West_Coast_East_Asia": 694,
-                "XSI_East_Asia_South_America_East_Coast": 5953,
-                "XSI_North_Europe_US_East_Coast": 2810,
-                "XSI_US_East_Coast_North_Europe": 573,
-                "XSI_North_Europe_South_America_East_Coast": 591
-            },
             {
                 "date": "2025-01-09",
                 "XSI_Composite_Index": 2683,
