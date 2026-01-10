@@ -1638,18 +1638,6 @@
         ],
         "WCI": [
             {
-                "date": "2025-01-09",
-                "WCI_Composite_Index": 3986,
-                "WCI_Shanghai_Rotterdam": 4375,
-                "WCI_Rotterdam_Shanghai": 522,
-                "WCI_Shanghai_Genoa": 5210,
-                "WCI_Shanghai_to_Los_Angeles": 5476,
-                "WCI_Los_Angeles_to_Shanghai": 719,
-                "WCI_Shanghai_New_York": 7085,
-                "WCI_New_York_Rotterdam": 828,
-                "WCI_Rotterdam_New_York": 2698
-            },
-            {
                 "date": "2025-01-16",
                 "WCI_Composite_Index": 3855,
                 "WCI_Shanghai_Rotterdam": 4231,
@@ -3263,18 +3251,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-01-09",
-                "XSI_Composite_Index": 2690,
-                "XSI_East_Asia_North_Europe": 4914,
-                "XSI_North_Europe_East_Asia": 303,
-                "XSI_East_Asia_US_West_Coast": 5684,
-                "XSI_US_West_Coast_East_Asia": 694,
-                "XSI_East_Asia_South_America_East_Coast": 5953,
-                "XSI_North_Europe_US_East_Coast": 2810,
-                "XSI_US_East_Coast_North_Europe": 573,
-                "XSI_North_Europe_South_America_East_Coast": 591
-            },
             {
                 "date": "2025-01-10",
                 "XSI_Composite_Index": 2683,
@@ -6989,90 +6965,90 @@
                 {
                     "route": "XSI_종합지수",
                     "current_index": 1393.0,
-                    "previous_index": 1237.0,
+                    "previous_index": 1358.0,
                     "weekly_change": {
-                        "value": "157.0",
-                        "percentage": "12.65%",
+                        "value": "36.0",
+                        "percentage": "2.61%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 북유럽",
                     "current_index": 2839.0,
-                    "previous_index": 2515.0,
+                    "previous_index": 2780.0,
                     "weekly_change": {
-                        "value": "324.0",
-                        "percentage": "12.88%",
+                        "value": "59.0",
+                        "percentage": "2.12%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_북유럽 → 동아시아",
                     "current_index": 157.0,
-                    "previous_index": 139.0,
+                    "previous_index": 159.0,
                     "weekly_change": {
-                        "value": "18.0",
-                        "percentage": "12.95%",
-                        "color_class": "text-red-500"
+                        "value": "-2.0",
+                        "percentage": "-1.26%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 미주서안",
                     "current_index": 2814.0,
-                    "previous_index": 2168.0,
+                    "previous_index": 2491.0,
                     "weekly_change": {
-                        "value": "646.0",
-                        "percentage": "29.80%",
+                        "value": "323.0",
+                        "percentage": "12.97%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_미주서안 → 동아시아",
                     "current_index": 608.0,
-                    "previous_index": 628.0,
+                    "previous_index": 593.0,
                     "weekly_change": {
-                        "value": "-20.0",
-                        "percentage": "-3.18%",
-                        "color_class": "text-blue-500"
+                        "value": "15.0",
+                        "percentage": "2.53%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 남미동안",
                     "current_index": 1951.0,
-                    "previous_index": 1774.0,
+                    "previous_index": 2069.0,
                     "weekly_change": {
-                        "value": "177.0",
-                        "percentage": "9.98%",
-                        "color_class": "text-red-500"
+                        "value": "-118.0",
+                        "percentage": "-5.70%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_북유럽 → 미주동안",
                     "current_index": 1585.0,
-                    "previous_index": 1550.0,
+                    "previous_index": 1585.0,
                     "weekly_change": {
-                        "value": "35.0",
-                        "percentage": "2.26%",
-                        "color_class": "text-red-500"
+                        "value": "0.0",
+                        "percentage": "0.00%",
+                        "color_class": "text-gray-700"
                     }
                 },
                 {
                     "route": "XSI_미주동안 → 북유럽",
                     "current_index": 674.0,
-                    "previous_index": 651.0,
+                    "previous_index": 681.0,
                     "weekly_change": {
-                        "value": "23.0",
-                        "percentage": "3.53%",
-                        "color_class": "text-red-500"
+                        "value": "-7.0",
+                        "percentage": "-1.03%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_북유럽 → 남미동안",
                     "current_index": 519.0,
-                    "previous_index": 470.0,
+                    "previous_index": 505.0,
                     "weekly_change": {
-                        "value": "49.0",
-                        "percentage": "10.43%",
+                        "value": "14.0",
+                        "percentage": "2.77%",
                         "color_class": "text-red-500"
                     }
                 }
