@@ -2,23 +2,6 @@
     "chart_data": {
         "KCCI": [
             {
-                "date": "2025-01-20",
-                "KCCI_Composite_Index": 3191,
-                "KCCI_US_West_Coast": 4957,
-                "KCCI_US_East_Coast": 6192,
-                "KCCI_Europe": 4634,
-                "KCCI_Mediterranean": 5274,
-                "KCCI_Middle_East": 2414,
-                "KCCI_Australia": 4158,
-                "KCCI_South_America_East_Coast": 5182,
-                "KCCI_South_America_West_Coast": 2669,
-                "KCCI_South_Africa": 4775,
-                "KCCI_West_Africa": 4201,
-                "KCCI_China": 49,
-                "KCCI_Japan": 251,
-                "KCCI_Southeast_Asia": 1240
-            },
-            {
                 "date": "2025-02-03",
                 "KCCI_Composite_Index": 2951,
                 "KCCI_US_West_Coast": 4603,
@@ -3252,18 +3235,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-01-20",
-                "XSI_Composite_Index": 2690,
-                "XSI_East_Asia_North_Europe": 4108,
-                "XSI_North_Europe_East_Asia": 296,
-                "XSI_East_Asia_US_West_Coast": 5205,
-                "XSI_US_West_Coast_East_Asia": 665,
-                "XSI_East_Asia_South_America_East_Coast": 4330,
-                "XSI_North_Europe_US_East_Coast": 2809,
-                "XSI_US_East_Coast_North_Europe": 554,
-                "XSI_North_Europe_South_America_East_Coast": 594
-            },
             {
                 "date": "2025-01-21",
                 "XSI_Composite_Index": 2683,
@@ -6966,20 +6937,20 @@
                 {
                     "route": "XSI_종합지수",
                     "current_index": 1314.0,
-                    "previous_index": 1370.0,
+                    "previous_index": 1359.0,
                     "weekly_change": {
-                        "value": "-56.0",
-                        "percentage": "-4.06%",
+                        "value": "-44.0",
+                        "percentage": "-3.26%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 북유럽",
                     "current_index": 2787.0,
-                    "previous_index": 2845.0,
+                    "previous_index": 2837.0,
                     "weekly_change": {
-                        "value": "-58.0",
-                        "percentage": "-2.04%",
+                        "value": "-50.0",
+                        "percentage": "-1.76%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -6996,20 +6967,20 @@
                 {
                     "route": "XSI_동아시아 → 미주서안",
                     "current_index": 2633.0,
-                    "previous_index": 2616.0,
+                    "previous_index": 2542.0,
                     "weekly_change": {
-                        "value": "17.0",
-                        "percentage": "0.65%",
+                        "value": "91.0",
+                        "percentage": "3.58%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_미주서안 → 동아시아",
                     "current_index": 614.0,
-                    "previous_index": 606.0,
+                    "previous_index": 604.0,
                     "weekly_change": {
-                        "value": "8.0",
-                        "percentage": "1.32%",
+                        "value": "10.0",
+                        "percentage": "1.66%",
                         "color_class": "text-red-500"
                     }
                 },
@@ -7036,10 +7007,10 @@
                 {
                     "route": "XSI_미주동안 → 북유럽",
                     "current_index": 680.0,
-                    "previous_index": 672.0,
+                    "previous_index": 665.0,
                     "weekly_change": {
-                        "value": "8.0",
-                        "percentage": "1.19%",
+                        "value": "15.0",
+                        "percentage": "2.26%",
                         "color_class": "text-red-500"
                     }
                 },
