@@ -2289,6 +2289,18 @@
                 "WCI_Shanghai_New_York": 3191,
                 "WCI_New_York_Rotterdam": 983,
                 "WCI_Rotterdam_New_York": 1570
+            },
+            {
+                "date": "2026-01-29",
+                "WCI_Composite_Index": 2107,
+                "WCI_Shanghai_Rotterdam": 2379,
+                "WCI_Rotterdam_Shanghai": 504,
+                "WCI_Shanghai_Genoa": 3293,
+                "WCI_Shanghai_to_Los_Angeles": 2442,
+                "WCI_Los_Angeles_to_Shanghai": 721,
+                "WCI_Shanghai_New_York": 2969,
+                "WCI_New_York_Rotterdam": 988,
+                "WCI_Rotterdam_New_York": 1605
             }
         ],
         "BLANKSAILING": [
@@ -6631,92 +6643,92 @@
             "rows": [
                 {
                     "route": "WCI_종합지수",
-                    "current_index": 2212.0,
-                    "previous_index": 2445.0,
+                    "current_index": 2107.0,
+                    "previous_index": 2212.0,
                     "weekly_change": {
-                        "value": "-233.0",
-                        "percentage": "-9.53%",
+                        "value": "-105.0",
+                        "percentage": "-4.75%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 로테르담",
-                    "current_index": 2510.0,
-                    "previous_index": 2763.0,
+                    "current_index": 2379.0,
+                    "previous_index": 2510.0,
                     "weekly_change": {
-                        "value": "-253.0",
-                        "percentage": "-9.16%",
+                        "value": "-131.0",
+                        "percentage": "-5.22%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_로테르담 → 상하이",
-                    "current_index": 502.0,
-                    "previous_index": 513.0,
+                    "current_index": 504.0,
+                    "previous_index": 502.0,
                     "weekly_change": {
-                        "value": "-11.0",
-                        "percentage": "-2.14%",
-                        "color_class": "text-blue-500"
+                        "value": "2.0",
+                        "percentage": "0.40%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 제노바",
-                    "current_index": 3520.0,
-                    "previous_index": 3839.0,
+                    "current_index": 3293.0,
+                    "previous_index": 3520.0,
                     "weekly_change": {
-                        "value": "-319.0",
-                        "percentage": "-8.31%",
+                        "value": "-227.0",
+                        "percentage": "-6.45%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 로스엔젤레스",
-                    "current_index": 2546.0,
-                    "previous_index": 2909.0,
+                    "current_index": 2442.0,
+                    "previous_index": 2546.0,
                     "weekly_change": {
-                        "value": "-363.0",
-                        "percentage": "-12.48%",
+                        "value": "-104.0",
+                        "percentage": "-4.08%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_로스엔젤레스 → 상하이",
-                    "current_index": 705.0,
-                    "previous_index": 732.0,
+                    "current_index": 721.0,
+                    "previous_index": 705.0,
                     "weekly_change": {
-                        "value": "-27.0",
-                        "percentage": "-3.69%",
-                        "color_class": "text-blue-500"
+                        "value": "16.0",
+                        "percentage": "2.27%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 뉴욕",
-                    "current_index": 3191.0,
-                    "previous_index": 3568.0,
+                    "current_index": 2969.0,
+                    "previous_index": 3191.0,
                     "weekly_change": {
-                        "value": "-377.0",
-                        "percentage": "-10.57%",
+                        "value": "-222.0",
+                        "percentage": "-6.96%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_뉴욕 → 로테르담",
-                    "current_index": 983.0,
-                    "previous_index": 989.0,
+                    "current_index": 988.0,
+                    "previous_index": 983.0,
                     "weekly_change": {
-                        "value": "-6.0",
-                        "percentage": "-0.61%",
-                        "color_class": "text-blue-500"
+                        "value": "5.0",
+                        "percentage": "0.51%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_로테르담 → 뉴욕",
-                    "current_index": 1570.0,
-                    "previous_index": 1634.0,
+                    "current_index": 1605.0,
+                    "previous_index": 1570.0,
                     "weekly_change": {
-                        "value": "-64.0",
-                        "percentage": "-3.92%",
-                        "color_class": "text-blue-500"
+                        "value": "35.0",
+                        "percentage": "2.23%",
+                        "color_class": "text-red-500"
                     }
                 }
             ]
