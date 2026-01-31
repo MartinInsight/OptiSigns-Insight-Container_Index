@@ -1655,18 +1655,6 @@
         ],
         "WCI": [
             {
-                "date": "2025-01-30",
-                "WCI_Composite_Index": 3364,
-                "WCI_Shanghai_Rotterdam": 3274,
-                "WCI_Rotterdam_Shanghai": 518,
-                "WCI_Shanghai_Genoa": 4400,
-                "WCI_Shanghai_to_Los_Angeles": 4771,
-                "WCI_Los_Angeles_to_Shanghai": 721,
-                "WCI_Shanghai_New_York": 6288,
-                "WCI_New_York_Rotterdam": 839,
-                "WCI_Rotterdam_New_York": 2732
-            },
-            {
                 "date": "2025-02-06",
                 "WCI_Composite_Index": 3273,
                 "WCI_Shanghai_Rotterdam": 3125,
@@ -3280,18 +3268,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-01-30",
-                "XSI_Composite_Index": 2627,
-                "XSI_East_Asia_North_Europe": 3683,
-                "XSI_North_Europe_East_Asia": 307,
-                "XSI_East_Asia_US_West_Coast": 5044,
-                "XSI_US_West_Coast_East_Asia": 674,
-                "XSI_East_Asia_South_America_East_Coast": 4031,
-                "XSI_North_Europe_US_East_Coast": 2590,
-                "XSI_US_East_Coast_North_Europe": 564,
-                "XSI_North_Europe_South_America_East_Coast": 598
-            },
             {
                 "date": "2025-01-31",
                 "XSI_Composite_Index": 2582,
@@ -5238,7 +5214,7 @@
             },
             {
                 "date": "2025-09-26",
-                "XSI_Composite_Index": 1493,
+                "XSI_Composite_Index": 1482,
                 "XSI_East_Asia_North_Europe": 1836,
                 "XSI_North_Europe_East_Asia": 180,
                 "XSI_East_Asia_US_West_Coast": 1772,
@@ -5250,7 +5226,7 @@
             },
             {
                 "date": "2025-09-26",
-                "XSI_Composite_Index": 1482,
+                "XSI_Composite_Index": 1493,
                 "XSI_East_Asia_North_Europe": 1836,
                 "XSI_North_Europe_East_Asia": 180,
                 "XSI_East_Asia_US_West_Coast": 1772,
