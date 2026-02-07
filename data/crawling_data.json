@@ -1672,18 +1672,6 @@
         ],
         "WCI": [
             {
-                "date": "2025-02-06",
-                "WCI_Composite_Index": 3273,
-                "WCI_Shanghai_Rotterdam": 3125,
-                "WCI_Rotterdam_Shanghai": 498,
-                "WCI_Shanghai_Genoa": 4236,
-                "WCI_Shanghai_to_Los_Angeles": 4717,
-                "WCI_Los_Angeles_to_Shanghai": 707,
-                "WCI_Shanghai_New_York": 6212,
-                "WCI_New_York_Rotterdam": 833,
-                "WCI_Rotterdam_New_York": 2469
-            },
-            {
                 "date": "2025-02-13",
                 "WCI_Composite_Index": 3095,
                 "WCI_Shanghai_Rotterdam": 2887,
@@ -3281,18 +3269,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-02-06",
-                "XSI_Composite_Index": 2043,
-                "XSI_East_Asia_North_Europe": 3257,
-                "XSI_North_Europe_East_Asia": 255,
-                "XSI_East_Asia_US_West_Coast": 4964,
-                "XSI_US_West_Coast_East_Asia": 645,
-                "XSI_East_Asia_South_America_East_Coast": 3729,
-                "XSI_North_Europe_US_East_Coast": 2312,
-                "XSI_US_East_Coast_North_Europe": 565,
-                "XSI_North_Europe_South_America_East_Coast": 614.0
-            },
             {
                 "date": "2025-02-07",
                 "XSI_Composite_Index": 2036,
@@ -6999,20 +6975,20 @@
                 {
                     "route": "XSI_종합지수",
                     "current_index": 1303.0,
-                    "previous_index": 1259.0,
+                    "previous_index": 1257.0,
                     "weekly_change": {
-                        "value": "43.0",
-                        "percentage": "3.44%",
+                        "value": "46.0",
+                        "percentage": "3.63%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 북유럽",
                     "current_index": 2406.0,
-                    "previous_index": 2645.0,
+                    "previous_index": 2644.0,
                     "weekly_change": {
-                        "value": "-239.0",
-                        "percentage": "-9.04%",
+                        "value": "-238.0",
+                        "percentage": "-9.00%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -7029,10 +7005,10 @@
                 {
                     "route": "XSI_동아시아 → 미주서안",
                     "current_index": 2050.0,
-                    "previous_index": 2227.0,
+                    "previous_index": 2211.0,
                     "weekly_change": {
-                        "value": "-177.0",
-                        "percentage": "-7.95%",
+                        "value": "-161.0",
+                        "percentage": "-7.28%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -7079,9 +7055,9 @@
                 {
                     "route": "XSI_북유럽 → 남미동안",
                     "current_index": null,
-                    "previous_index": 534.0,
+                    "previous_index": 533.0,
                     "weekly_change": {
-                        "value": "-534.0",
+                        "value": "-533.0",
                         "percentage": "-100.00%",
                         "color_class": "text-blue-500"
                     }
