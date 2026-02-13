@@ -7074,51 +7074,51 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "50.95",
+            "LA_Temperature": "51.58",
             "LA_WeatherStatus": "맑음(clear sky)",
-            "LA_Humidity": "74",
-            "LA_WindSpeed": "5.75",
-            "LA_Pressure": "1021",
+            "LA_Humidity": "75",
+            "LA_WindSpeed": "4.61",
+            "LA_Pressure": "1016",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:40:47 AM",
-            "LA_Sunset": "5:33:49 PM"
+            "LA_Sunrise": "6:39:48 AM",
+            "LA_Sunset": "5:34:46 PM"
         },
         "forecast": [
             {
-                "date": "2/12/2026",
-                "min_temp": "51",
+                "date": "2/13/2026",
+                "min_temp": "51.6",
                 "max_temp": "64.2",
                 "status": "맑음(clear sky)"
             },
             {
-                "date": "2/13/2026",
-                "min_temp": "55.9",
-                "max_temp": "68.3",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "2/14/2026",
-                "min_temp": "56.6",
-                "max_temp": "67.7",
+                "min_temp": "56.4",
+                "max_temp": "67",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "2/15/2026",
-                "min_temp": "55.8",
-                "max_temp": "64.6",
+                "min_temp": "56",
+                "max_temp": "61.3",
                 "status": "흐림(overcast clouds)"
             },
             {
                 "date": "2/16/2026",
-                "min_temp": "53",
-                "max_temp": "56.7",
+                "min_temp": "52.4",
+                "max_temp": "56.9",
                 "status": "약한 비(light rain)"
             },
             {
                 "date": "2/17/2026",
-                "min_temp": "54.4",
-                "max_temp": "54.6",
-                "status": "보통 비(moderate rain)"
+                "min_temp": "51.8",
+                "max_temp": "56.9",
+                "status": "약한 비(light rain)"
+            },
+            {
+                "date": "2/18/2026",
+                "min_temp": "52.3",
+                "max_temp": "52.7",
+                "status": "약한 비(light rain)"
             }
         ]
     },
