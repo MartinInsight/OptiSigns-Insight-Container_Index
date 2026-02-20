@@ -7028,50 +7028,50 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "47.23",
-            "LA_WeatherStatus": "구름 많음(broken clouds)",
+            "LA_Temperature": "43.25",
+            "LA_WeatherStatus": "맑음(clear sky)",
             "LA_Humidity": "75",
-            "LA_WindSpeed": "3.44",
-            "LA_Pressure": "1015",
+            "LA_WindSpeed": "5.75",
+            "LA_Pressure": "1016",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:33:34 AM",
-            "LA_Sunset": "5:40:21 PM"
+            "LA_Sunrise": "6:32:27 AM",
+            "LA_Sunset": "5:41:16 PM"
         },
         "forecast": [
             {
-                "date": "2/19/2026",
-                "min_temp": "46",
-                "max_temp": "51.1",
-                "status": "구름 많음(broken clouds)"
-            },
-            {
                 "date": "2/20/2026",
-                "min_temp": "46.6",
-                "max_temp": "58.1",
+                "min_temp": "43.2",
+                "max_temp": "55.9",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "2/21/2026",
-                "min_temp": "50.1",
-                "max_temp": "64",
+                "min_temp": "50.3",
+                "max_temp": "68.2",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "2/22/2026",
-                "min_temp": "55.3",
-                "max_temp": "71.2",
+                "min_temp": "56.1",
+                "max_temp": "73.8",
                 "status": "구름 많음(broken clouds)"
             },
             {
                 "date": "2/23/2026",
-                "min_temp": "60.5",
-                "max_temp": "78.1",
-                "status": "구름 많음(broken clouds)"
+                "min_temp": "60.4",
+                "max_temp": "78.3",
+                "status": "흐림(overcast clouds)"
             },
             {
                 "date": "2/24/2026",
-                "min_temp": "64",
-                "max_temp": "65.5",
+                "min_temp": "64.5",
+                "max_temp": "76.1",
+                "status": "구름 중간(scattered clouds)"
+            },
+            {
+                "date": "2/25/2026",
+                "min_temp": "62.3",
+                "max_temp": "63.8",
                 "status": "구름 중간(scattered clouds)"
             }
         ]
