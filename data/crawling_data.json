@@ -803,23 +803,6 @@
         ],
         "SCFI": [
             {
-                "date": "2025-04-04",
-                "SCFI_Composite_Index": 1392,
-                "SCFI_US_West_Coast": 2313,
-                "SCFI_US_East_Coast": 3306,
-                "SCFI_North_Europe": 1336,
-                "SCFI_Mediterranean": 2028,
-                "SCFI_Southeast_Asia": 445,
-                "SCFI_Middle_East": 1290,
-                "SCFI_Australia_New_Zealand": 839,
-                "SCFI_South_America": 1436,
-                "SCFI_Japan_West_Coast": 322,
-                "SCFI_Japan_East_Coast": 327,
-                "SCFI_Korea": 142,
-                "SCFI_East_West_Africa": 3749,
-                "SCFI_South_Africa": 2192
-            },
-            {
                 "date": "2025-04-11",
                 "SCFI_Composite_Index": 1395,
                 "SCFI_US_West_Coast": 2202,
@@ -2395,22 +2378,6 @@
         ],
         "FBX": [
             {
-                "date": "2025-04-04",
-                "FBX_Composite_Index": 2032,
-                "FBX_China_EA_US_West_Coast": 2246,
-                "FBX_US_West_Coast_China_EA": 416,
-                "FBX_China_EA_US_East_Coast": 3541,
-                "FBX_US_East_Coast_China_EA": 540,
-                "FBX_China_EA_North_Europe": 2385,
-                "FBX_North_Europe_China_EA": 431,
-                "FBX_China_EA_Mediterranean": 2910,
-                "FBX_Mediterranean_China_EA": 642,
-                "FBX_US_East_Coast_North_Europe": 601,
-                "FBX_North_Europe_US_East_Coast": 2130,
-                "FBX_Europe_South_America_East_Coast": 962,
-                "FBX_Europe_South_America_West_Coast": 2396
-            },
-            {
                 "date": "2025-04-11",
                 "FBX_Composite_Index": 2075,
                 "FBX_China_EA_US_West_Coast": 2465,
@@ -3260,18 +3227,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-04-04",
-                "XSI_Composite_Index": 1417,
-                "XSI_East_Asia_North_Europe": 2172,
-                "XSI_North_Europe_East_Asia": 219,
-                "XSI_East_Asia_US_West_Coast": 2956,
-                "XSI_US_West_Coast_East_Asia": 648,
-                "XSI_East_Asia_South_America_East_Coast": 1945,
-                "XSI_North_Europe_US_East_Coast": 2134,
-                "XSI_US_East_Coast_North_Europe": 575,
-                "XSI_North_Europe_South_America_East_Coast": 685
-            },
             {
                 "date": "2025-04-07",
                 "XSI_Composite_Index": 1424,
@@ -6106,10 +6061,6 @@
             }
         ],
         "MBCI": [
-            {
-                "date": "2025-04-04",
-                "MBCI_Value": 1333
-            },
             {
                 "date": "2025-04-11",
                 "MBCI_Value": 1348
