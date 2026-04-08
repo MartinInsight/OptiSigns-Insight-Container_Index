@@ -2,23 +2,6 @@
     "chart_data": {
         "KCCI": [
             {
-                "date": "2025-04-07",
-                "KCCI_Composite_Index": 1829,
-                "KCCI_US_West_Coast": 2529,
-                "KCCI_US_East_Coast": 3575,
-                "KCCI_Europe": 2288,
-                "KCCI_Mediterranean": 3031,
-                "KCCI_Middle_East": 2219,
-                "KCCI_Australia": 1772,
-                "KCCI_South_America_East_Coast": 2226,
-                "KCCI_South_America_West_Coast": 1873,
-                "KCCI_South_Africa": 3035,
-                "KCCI_West_Africa": 3261,
-                "KCCI_China": 49,
-                "KCCI_Japan": 259,
-                "KCCI_Southeast_Asia": 1162
-            },
-            {
                 "date": "2025-04-14",
                 "KCCI_Composite_Index": 1800,
                 "KCCI_US_West_Coast": 2566,
@@ -3261,18 +3244,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-04-07",
-                "XSI_Composite_Index": 1424,
-                "XSI_East_Asia_North_Europe": 2337,
-                "XSI_North_Europe_East_Asia": 219,
-                "XSI_East_Asia_US_West_Coast": 2973,
-                "XSI_US_West_Coast_East_Asia": 648,
-                "XSI_East_Asia_South_America_East_Coast": 1884,
-                "XSI_North_Europe_US_East_Coast": 2117,
-                "XSI_US_East_Coast_North_Europe": 574,
-                "XSI_North_Europe_South_America_East_Coast": 641
-            },
             {
                 "date": "2025-04-08",
                 "XSI_Composite_Index": 1412,
