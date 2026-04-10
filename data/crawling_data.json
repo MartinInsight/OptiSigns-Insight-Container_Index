@@ -2394,6 +2394,15 @@
                 "BLANKSAILING_Premier_Alliance": 16,
                 "BLANKSAILING_Others_Independent": 7,
                 "BLANKSAILING_Total": 7
+            },
+            {
+                "date": "2026-04-10",
+                "BLANKSAILING_Gemini_Cooperation": 0,
+                "BLANKSAILING_MSC": 5,
+                "BLANKSAILING_OCEAN_Alliance": 12,
+                "BLANKSAILING_Premier_Alliance": 18,
+                "BLANKSAILING_Others_Independent": 12,
+                "BLANKSAILING_Total": 9
             }
         ],
         "FBX": [
@@ -6066,6 +6075,18 @@
                 "XSI_North_Europe_US_East_Coast": 2049,
                 "XSI_US_East_Coast_North_Europe": 693,
                 "XSI_North_Europe_South_America_East_Coast": 720
+            },
+            {
+                "date": "2026-04-09",
+                "XSI_Composite_Index": 1607,
+                "XSI_East_Asia_North_Europe": 2763,
+                "XSI_North_Europe_East_Asia": 222,
+                "XSI_East_Asia_US_West_Coast": 2607,
+                "XSI_US_West_Coast_East_Asia": 593,
+                "XSI_East_Asia_South_America_East_Coast": 3182,
+                "XSI_North_Europe_US_East_Coast": 2074,
+                "XSI_US_East_Coast_North_Europe": 690,
+                "XSI_North_Europe_South_America_East_Coast": 724
             }
         ],
         "MBCI": [
@@ -6276,6 +6297,10 @@
             {
                 "date": "2026-04-03",
                 "MBCI_Value": 1318
+            },
+            {
+                "date": "2026-04-10",
+                "MBCI_Value": 1451
             }
         ]
     },
@@ -6691,60 +6716,56 @@
                 {
                     "route": "BLANKSAILING_Gemini Cooperation",
                     "current_index": 0.0,
-                    "previous_index": 1.0,
-                    "weekly_change": {
-                        "value": "-1",
-                        "percentage": "-100.00%",
-                        "color_class": "text-blue-500"
-                    }
+                    "previous_index": 0.0,
+                    "weekly_change": null
                 },
                 {
                     "route": "BLANKSAILING_MSC",
-                    "current_index": 4.0,
+                    "current_index": 5.0,
                     "previous_index": 4.0,
                     "weekly_change": {
-                        "value": "0",
-                        "percentage": "0.00%",
-                        "color_class": "text-gray-700"
+                        "value": "1",
+                        "percentage": "25.00%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_OCEAN Alliance",
-                    "current_index": 7.0,
-                    "previous_index": 5.0,
+                    "current_index": 12.0,
+                    "previous_index": 7.0,
                     "weekly_change": {
-                        "value": "2",
-                        "percentage": "40.00%",
+                        "value": "5",
+                        "percentage": "71.43%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Premier Alliance",
-                    "current_index": 16.0,
-                    "previous_index": 9.0,
+                    "current_index": 18.0,
+                    "previous_index": 16.0,
                     "weekly_change": {
-                        "value": "7",
-                        "percentage": "77.78%",
+                        "value": "2",
+                        "percentage": "12.50%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Others/Independent",
-                    "current_index": 7.0,
+                    "current_index": 12.0,
                     "previous_index": 7.0,
                     "weekly_change": {
-                        "value": "0",
-                        "percentage": "0.00%",
-                        "color_class": "text-gray-700"
+                        "value": "5",
+                        "percentage": "71.43%",
+                        "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "BLANKSAILING_Total",
-                    "current_index": 7.0,
-                    "previous_index": 5.0,
+                    "current_index": 9.0,
+                    "previous_index": 7.0,
                     "weekly_change": {
                         "value": "2",
-                        "percentage": "40.00%",
+                        "percentage": "28.57%",
                         "color_class": "text-red-500"
                     }
                 }
@@ -6900,21 +6921,21 @@
             "rows": [
                 {
                     "route": "XSI_종합지수",
-                    "current_index": 1599.0,
+                    "current_index": 1607.0,
                     "previous_index": 1523.0,
                     "weekly_change": {
-                        "value": "76.0",
-                        "percentage": "4.97%",
+                        "value": "84.0",
+                        "percentage": "5.48%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 북유럽",
-                    "current_index": 2778.0,
+                    "current_index": 2763.0,
                     "previous_index": 2813.0,
                     "weekly_change": {
-                        "value": "-35.0",
-                        "percentage": "-1.24%",
+                        "value": "-50.0",
+                        "percentage": "-1.78%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -6930,21 +6951,21 @@
                 },
                 {
                     "route": "XSI_동아시아 → 미주서안",
-                    "current_index": 2560.0,
+                    "current_index": 2607.0,
                     "previous_index": 2429.0,
                     "weekly_change": {
-                        "value": "131.0",
-                        "percentage": "5.39%",
+                        "value": "178.0",
+                        "percentage": "7.33%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_미주서안 → 동아시아",
-                    "current_index": 589.0,
+                    "current_index": 593.0,
                     "previous_index": 582.0,
                     "weekly_change": {
-                        "value": "7.0",
-                        "percentage": "1.20%",
+                        "value": "11.0",
+                        "percentage": "1.89%",
                         "color_class": "text-red-500"
                     }
                 },
@@ -6960,31 +6981,31 @@
                 },
                 {
                     "route": "XSI_북유럽 → 미주동안",
-                    "current_index": 2049.0,
+                    "current_index": 2074.0,
                     "previous_index": 1823.0,
                     "weekly_change": {
-                        "value": "226.0",
-                        "percentage": "12.40%",
+                        "value": "251.0",
+                        "percentage": "13.77%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_미주동안 → 북유럽",
-                    "current_index": 693.0,
+                    "current_index": 690.0,
                     "previous_index": 672.0,
                     "weekly_change": {
-                        "value": "21.0",
-                        "percentage": "3.13%",
+                        "value": "18.0",
+                        "percentage": "2.68%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "XSI_북유럽 → 남미동안",
-                    "current_index": 720.0,
+                    "current_index": 724.0,
                     "previous_index": 807.0,
                     "weekly_change": {
-                        "value": "-87.0",
-                        "percentage": "-10.78%",
+                        "value": "-83.0",
+                        "percentage": "-10.29%",
                         "color_class": "text-blue-500"
                     }
                 }
@@ -7000,11 +7021,11 @@
             "rows": [
                 {
                     "route": "MBCI_종합지수",
-                    "current_index": 1318.0,
-                    "previous_index": 1224.0,
+                    "current_index": 1451.0,
+                    "previous_index": 1318.0,
                     "weekly_change": {
-                        "value": "94",
-                        "percentage": "7.68%",
+                        "value": "133",
+                        "percentage": "10.09%",
                         "color_class": "text-red-500"
                     }
                 }
