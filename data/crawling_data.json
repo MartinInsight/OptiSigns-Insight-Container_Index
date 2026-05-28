@@ -767,6 +767,23 @@
                 "KCCI_Southeast_Asia": 1077
             },
             {
+                "date": "2026-05-18",
+                "KCCI_Composite_Index": 2361,
+                "KCCI_US_West_Coast": 3011,
+                "KCCI_US_East_Coast": 4103,
+                "KCCI_Europe": 2679,
+                "KCCI_Mediterranean": 3866,
+                "KCCI_Middle_East": 5934,
+                "KCCI_Australia": 1864,
+                "KCCI_South_America_East_Coast": 3484,
+                "KCCI_South_America_West_Coast": 3054,
+                "KCCI_South_Africa": 3035,
+                "KCCI_West_Africa": 4250,
+                "KCCI_China": 56,
+                "KCCI_Japan": 238,
+                "KCCI_Southeast_Asia": 1075
+            },
+            {
                 "date": "2026-05-26",
                 "KCCI_Composite_Index": 2478,
                 "KCCI_US_West_Coast": 3135,
