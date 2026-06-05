@@ -2377,6 +2377,15 @@
                 "BLANKSAILING_Premier_Alliance": 5,
                 "BLANKSAILING_Others_Independent": 12,
                 "BLANKSAILING_Total": 7
+            },
+            {
+                "date": "2026-06-05",
+                "BLANKSAILING_Gemini_Cooperation": 0,
+                "BLANKSAILING_MSC": 0,
+                "BLANKSAILING_OCEAN_Alliance": 8,
+                "BLANKSAILING_Premier_Alliance": 5,
+                "BLANKSAILING_Others_Independent": 10,
+                "BLANKSAILING_Total": 5
             }
         ],
         "FBX": [
@@ -3227,6 +3236,22 @@
                 "FBX_North_Europe_US_East_Coast": 2367,
                 "FBX_Europe_South_America_East_Coast": 1194,
                 "FBX_Europe_South_America_West_Coast": 2684
+            },
+            {
+                "date": "2026-06-05",
+                "FBX_Composite_Index": 2863,
+                "FBX_China_EA_US_West_Coast": 4841,
+                "FBX_US_West_Coast_China_EA": 456,
+                "FBX_China_EA_US_East_Coast": 6323,
+                "FBX_US_East_Coast_China_EA": 681,
+                "FBX_China_EA_North_Europe": 4087,
+                "FBX_North_Europe_China_EA": 553,
+                "FBX_China_EA_Mediterranean": 5524,
+                "FBX_Mediterranean_China_EA": 468,
+                "FBX_US_East_Coast_North_Europe": 832,
+                "FBX_North_Europe_US_East_Coast": 1996,
+                "FBX_Europe_South_America_East_Coast": 964,
+                "FBX_Europe_South_America_West_Coast": 2659
             }
         ],
         "XSI": [
@@ -6223,6 +6248,10 @@
             {
                 "date": "2026-05-29",
                 "MBCI_Value": 1507
+            },
+            {
+                "date": "2026-06-05",
+                "MBCI_Value": 1518
             }
         ]
     },
