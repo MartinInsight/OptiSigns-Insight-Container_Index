@@ -2255,6 +2255,18 @@
                 "WCI_Shanghai_New_York": 7902,
                 "WCI_New_York_Rotterdam": 1015,
                 "WCI_Rotterdam_New_York": 2602
+            },
+            {
+                "date": "2026-07-09",
+                "WCI_Composite_Index": 4639,
+                "WCI_Shanghai_Rotterdam": 4933,
+                "WCI_Rotterdam_Shanghai": 612,
+                "WCI_Shanghai_Genoa": 6463,
+                "WCI_Shanghai_to_Los_Angeles": 6482,
+                "WCI_Los_Angeles_to_Shanghai": 825,
+                "WCI_Shanghai_New_York": 7904,
+                "WCI_New_York_Rotterdam": 1022,
+                "WCI_Rotterdam_New_York": 2723
             }
         ],
         "BLANKSAILING": [
@@ -6522,91 +6534,91 @@
             "rows": [
                 {
                     "route": "WCI_종합지수",
-                    "current_index": 4530.0,
-                    "previous_index": 4166.0,
+                    "current_index": 4639.0,
+                    "previous_index": 4530.0,
                     "weekly_change": {
-                        "value": "364.0",
-                        "percentage": "8.74%",
+                        "value": "109.0",
+                        "percentage": "2.41%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 로테르담",
-                    "current_index": 4682.0,
-                    "previous_index": 4392.0,
+                    "current_index": 4933.0,
+                    "previous_index": 4682.0,
                     "weekly_change": {
-                        "value": "290.0",
-                        "percentage": "6.60%",
+                        "value": "251.0",
+                        "percentage": "5.36%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_로테르담 → 상하이",
-                    "current_index": 647.0,
-                    "previous_index": 648.0,
+                    "current_index": 612.0,
+                    "previous_index": 647.0,
                     "weekly_change": {
-                        "value": "-1.0",
-                        "percentage": "-0.15%",
+                        "value": "-35.0",
+                        "percentage": "-5.41%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 제노바",
-                    "current_index": 6360.0,
-                    "previous_index": 5759.0,
+                    "current_index": 6463.0,
+                    "previous_index": 6360.0,
                     "weekly_change": {
-                        "value": "601.0",
-                        "percentage": "10.44%",
+                        "value": "103.0",
+                        "percentage": "1.62%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 로스엔젤레스",
-                    "current_index": 6349.0,
-                    "previous_index": 5750.0,
+                    "current_index": 6482.0,
+                    "previous_index": 6349.0,
                     "weekly_change": {
-                        "value": "599.0",
-                        "percentage": "10.42%",
+                        "value": "133.0",
+                        "percentage": "2.09%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_로스엔젤레스 → 상하이",
-                    "current_index": 828.0,
+                    "current_index": 825.0,
                     "previous_index": 828.0,
                     "weekly_change": {
-                        "value": "0.0",
-                        "percentage": "0.00%",
-                        "color_class": "text-gray-700"
+                        "value": "-3.0",
+                        "percentage": "-0.36%",
+                        "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 뉴욕",
-                    "current_index": 7902.0,
-                    "previous_index": 7149.0,
+                    "current_index": 7904.0,
+                    "previous_index": 7902.0,
                     "weekly_change": {
-                        "value": "753.0",
-                        "percentage": "10.53%",
+                        "value": "2.0",
+                        "percentage": "0.03%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_뉴욕 → 로테르담",
-                    "current_index": 1015.0,
-                    "previous_index": 1011.0,
+                    "current_index": 1022.0,
+                    "previous_index": 1015.0,
                     "weekly_change": {
-                        "value": "4.0",
-                        "percentage": "0.40%",
+                        "value": "7.0",
+                        "percentage": "0.69%",
                         "color_class": "text-red-500"
                     }
                 },
                 {
                     "route": "WCI_로테르담 → 뉴욕",
-                    "current_index": 2602.0,
-                    "previous_index": 2584.0,
+                    "current_index": 2723.0,
+                    "previous_index": 2602.0,
                     "weekly_change": {
-                        "value": "18.0",
-                        "percentage": "0.70%",
+                        "value": "121.0",
+                        "percentage": "4.65%",
                         "color_class": "text-red-500"
                     }
                 }
@@ -6937,59 +6949,55 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "63.03",
+            "LA_Temperature": "64.71",
             "LA_WeatherStatus": "맑음(clear sky)",
-            "LA_Humidity": "92",
-            "LA_WindSpeed": "1.48",
-            "LA_Pressure": "1014",
+            "LA_Humidity": "88",
+            "LA_WindSpeed": "1.59",
+            "LA_Pressure": "1011",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "5:48:29 AM",
-            "LA_Sunset": "8:07:15 PM"
+            "LA_Sunrise": "5:49:02 AM",
+            "LA_Sunset": "8:07:00 PM"
         },
         "forecast": [
             {
-                "date": "7/8/2026",
-                "min_temp": "63.3",
-                "max_temp": "86.3",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "7/9/2026",
-                "min_temp": "65.6",
-                "max_temp": "91.1",
+                "min_temp": "64.5",
+                "max_temp": "85.4",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "7/10/2026",
-                "min_temp": "69.8",
-                "max_temp": "88.1",
+                "min_temp": "63.3",
+                "max_temp": "89.7",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "7/11/2026",
-                "min_temp": "69.7",
-                "max_temp": "86.4",
-                "status": "구름 많음(broken clouds)"
+                "min_temp": "70",
+                "max_temp": "86.6",
+                "status": "구름 조금(few clouds)"
             },
             {
                 "date": "7/12/2026",
-                "min_temp": "72",
-                "max_temp": "85.3",
-                "status": "흐림(overcast clouds)"
+                "min_temp": "71.2",
+                "max_temp": "87.4",
+                "status": "맑음(clear sky)"
             },
             {
                 "date": "7/13/2026",
-                "min_temp": "71.3",
-                "max_temp": "73.1",
+                "min_temp": "73",
+                "max_temp": "82.7",
+                "status": "구름 많음(broken clouds)"
+            },
+            {
+                "date": "7/14/2026",
+                "min_temp": "71.9",
+                "max_temp": "73.4",
                 "status": "구름 많음(broken clouds)"
             }
         ]
     },
     "exchange_rate": [
-        {
-            "date": "2026-06-08",
-            "rate": 1529.0
-        },
         {
             "date": "2026-06-09",
             "rate": 1526.0
@@ -7073,6 +7081,10 @@
         {
             "date": "2026-07-07",
             "rate": 1520.0
+        },
+        {
+            "date": "2026-07-08",
+            "rate": 1504.0
         }
     ]
 }
