@@ -6946,51 +6946,51 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "68.4",
-            "LA_WeatherStatus": "맑음(clear sky)",
-            "LA_Humidity": "85",
-            "LA_WindSpeed": "3.2",
-            "LA_Pressure": "1013",
+            "LA_Temperature": "67.39",
+            "LA_WeatherStatus": "구름 중간(scattered clouds)",
+            "LA_Humidity": "71",
+            "LA_WindSpeed": "1.61",
+            "LA_Pressure": "1011",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:00:40 AM",
-            "LA_Sunset": "7:58:03 PM"
+            "LA_Sunrise": "6:01:23 AM",
+            "LA_Sunset": "7:57:19 PM"
         },
         "forecast": [
             {
-                "date": "7/27/2026",
-                "min_temp": "68.4",
-                "max_temp": "92.1",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "7/28/2026",
-                "min_temp": "70",
-                "max_temp": "91.5",
-                "status": "맑음(clear sky)"
+                "min_temp": "67.5",
+                "max_temp": "90.2",
+                "status": "구름 중간(scattered clouds)"
             },
             {
                 "date": "7/29/2026",
-                "min_temp": "73.3",
-                "max_temp": "92.9",
+                "min_temp": "66.1",
+                "max_temp": "93.2",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "7/30/2026",
-                "min_temp": "73.2",
-                "max_temp": "90.9",
+                "min_temp": "73.1",
+                "max_temp": "91.1",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "7/31/2026",
-                "min_temp": "75.2",
-                "max_temp": "91.6",
-                "status": "구름 중간(scattered clouds)"
+                "min_temp": "74.8",
+                "max_temp": "92.2",
+                "status": "맑음(clear sky)"
             },
             {
                 "date": "8/1/2026",
-                "min_temp": "78.2",
-                "max_temp": "78.3",
-                "status": "구름 중간(scattered clouds)"
+                "min_temp": "77.3",
+                "max_temp": "95.3",
+                "status": "맑음(clear sky)"
+            },
+            {
+                "date": "8/2/2026",
+                "min_temp": "76.9",
+                "max_temp": "78.4",
+                "status": "맑음(clear sky)"
             }
         ]
     },
@@ -7077,7 +7077,11 @@
         },
         {
             "date": "2026-07-27",
-            "rate": 1470.0
+            "rate": 1465.0
+        },
+        {
+            "date": "2026-07-28",
+            "rate": 1458.0
         }
     ]
 }
