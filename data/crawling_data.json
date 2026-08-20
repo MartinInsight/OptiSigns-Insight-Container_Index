@@ -6921,51 +6921,51 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "68.04",
+            "LA_Temperature": "67.8",
             "LA_WeatherStatus": "맑음(clear sky)",
-            "LA_Humidity": "84",
-            "LA_WindSpeed": "6.91",
-            "LA_Pressure": "1012",
+            "LA_Humidity": "82",
+            "LA_WindSpeed": "3.44",
+            "LA_Pressure": "1013",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:17:33 AM",
-            "LA_Sunset": "7:35:56 PM"
+            "LA_Sunrise": "6:18:16 AM",
+            "LA_Sunset": "7:34:44 PM"
         },
         "forecast": [
             {
-                "date": "8/19/2026",
-                "min_temp": "67.9",
-                "max_temp": "91.6",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "8/20/2026",
-                "min_temp": "70",
-                "max_temp": "95.7",
+                "min_temp": "67.8",
+                "max_temp": "89.4",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "8/21/2026",
-                "min_temp": "76",
-                "max_temp": "92.8",
+                "min_temp": "68.1",
+                "max_temp": "96.7",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "8/22/2026",
-                "min_temp": "76.9",
-                "max_temp": "91.6",
+                "min_temp": "77",
+                "max_temp": "91.2",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "8/23/2026",
                 "min_temp": "77.9",
-                "max_temp": "94.1",
+                "max_temp": "93.8",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "8/24/2026",
-                "min_temp": "77.7",
-                "max_temp": "78.3",
-                "status": "구름 많음(broken clouds)"
+                "min_temp": "78.5",
+                "max_temp": "93.7",
+                "status": "맑음(clear sky)"
+            },
+            {
+                "date": "8/25/2026",
+                "min_temp": "79.2",
+                "max_temp": "80.8",
+                "status": "맑음(clear sky)"
             }
         ]
     },
