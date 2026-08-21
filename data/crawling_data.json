@@ -2271,15 +2271,6 @@
         ],
         "BLANKSAILING": [
             {
-                "date": "2026-05-22",
-                "BLANKSAILING_Gemini_Cooperation": 1,
-                "BLANKSAILING_MSC": 2,
-                "BLANKSAILING_OCEAN_Alliance": 9,
-                "BLANKSAILING_Premier_Alliance": 6,
-                "BLANKSAILING_Others_Independent": 9,
-                "BLANKSAILING_Total": 6
-            },
-            {
                 "date": "2026-05-29",
                 "BLANKSAILING_Gemini_Cooperation": 0,
                 "BLANKSAILING_MSC": 1,
@@ -3239,18 +3230,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-08-20",
-                "XSI_Composite_Index": 1536,
-                "XSI_East_Asia_North_Europe": 3020,
-                "XSI_North_Europe_East_Asia": 213,
-                "XSI_East_Asia_US_West_Coast": 1833,
-                "XSI_US_West_Coast_East_Asia": 634,
-                "XSI_East_Asia_South_America_East_Coast": 3446,
-                "XSI_North_Europe_US_East_Coast": 1906,
-                "XSI_US_East_Coast_North_Europe": 630,
-                "XSI_North_Europe_South_America_East_Coast": 609
-            },
             {
                 "date": "2025-08-21",
                 "XSI_Composite_Index": 1531,
