@@ -803,23 +803,6 @@
         ],
         "SCFI": [
             {
-                "date": "2025-08-29",
-                "SCFI_Composite_Index": 1445,
-                "SCFI_US_West_Coast": 1923,
-                "SCFI_US_East_Coast": 2866,
-                "SCFI_North_Europe": 1481,
-                "SCFI_Mediterranean": 2145,
-                "SCFI_Southeast_Asia": 419,
-                "SCFI_Middle_East": 1579,
-                "SCFI_Australia_New_Zealand": 1325,
-                "SCFI_South_America": 3027,
-                "SCFI_Japan_West_Coast": 314,
-                "SCFI_Japan_East_Coast": 323,
-                "SCFI_Korea": 139,
-                "SCFI_East_West_Africa": 3977,
-                "SCFI_South_Africa": 2984
-            },
-            {
                 "date": "2025-09-05",
                 "SCFI_Composite_Index": 1444,
                 "SCFI_US_West_Coast": 2189,
@@ -2378,22 +2361,6 @@
         ],
         "FBX": [
             {
-                "date": "2025-08-29",
-                "FBX_Composite_Index": 1898,
-                "FBX_China_EA_US_West_Coast": 1725,
-                "FBX_US_West_Coast_China_EA": 344,
-                "FBX_China_EA_US_East_Coast": 2708,
-                "FBX_US_East_Coast_China_EA": 465,
-                "FBX_China_EA_North_Europe": 2841,
-                "FBX_North_Europe_China_EA": 417,
-                "FBX_China_EA_Mediterranean": 3033,
-                "FBX_Mediterranean_China_EA": 629,
-                "FBX_US_East_Coast_North_Europe": 443,
-                "FBX_North_Europe_US_East_Coast": 2269,
-                "FBX_Europe_South_America_East_Coast": 756,
-                "FBX_Europe_South_America_West_Coast": 3181
-            },
-            {
                 "date": "2025-09-05",
                 "FBX_Composite_Index": 2004,
                 "FBX_China_EA_US_West_Coast": 2163,
@@ -2411,22 +2378,6 @@
             },
             {
                 "date": "2025-09-12",
-                "FBX_Composite_Index": 2051,
-                "FBX_China_EA_US_West_Coast": 2309,
-                "FBX_US_West_Coast_China_EA": 345,
-                "FBX_China_EA_US_East_Coast": 3368,
-                "FBX_US_East_Coast_China_EA": 450,
-                "FBX_China_EA_North_Europe": 2585,
-                "FBX_North_Europe_China_EA": 428,
-                "FBX_China_EA_Mediterranean": 2833,
-                "FBX_Mediterranean_China_EA": 693,
-                "FBX_US_East_Coast_North_Europe": 468,
-                "FBX_North_Europe_US_East_Coast": 2269,
-                "FBX_Europe_South_America_East_Coast": 778,
-                "FBX_Europe_South_America_West_Coast": 2935
-            },
-            {
-                "date": "2025-09-12",
                 "FBX_Composite_Index": 2058,
                 "FBX_China_EA_US_West_Coast": 2313,
                 "FBX_US_West_Coast_China_EA": 345,
@@ -2440,6 +2391,22 @@
                 "FBX_North_Europe_US_East_Coast": 2269,
                 "FBX_Europe_South_America_East_Coast": 778,
                 "FBX_Europe_South_America_West_Coast": 2949
+            },
+            {
+                "date": "2025-09-12",
+                "FBX_Composite_Index": 2051,
+                "FBX_China_EA_US_West_Coast": 2309,
+                "FBX_US_West_Coast_China_EA": 345,
+                "FBX_China_EA_US_East_Coast": 3368,
+                "FBX_US_East_Coast_China_EA": 450,
+                "FBX_China_EA_North_Europe": 2585,
+                "FBX_North_Europe_China_EA": 428,
+                "FBX_China_EA_Mediterranean": 2833,
+                "FBX_Mediterranean_China_EA": 693,
+                "FBX_US_East_Coast_North_Europe": 468,
+                "FBX_North_Europe_US_East_Coast": 2269,
+                "FBX_Europe_South_America_East_Coast": 778,
+                "FBX_Europe_South_America_West_Coast": 2935
             },
             {
                 "date": "2025-09-19",
@@ -3243,18 +3210,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-08-29",
-                "XSI_Composite_Index": 1464,
-                "XSI_East_Asia_North_Europe": 2755,
-                "XSI_North_Europe_East_Asia": 201,
-                "XSI_East_Asia_US_West_Coast": 1776,
-                "XSI_US_West_Coast_East_Asia": 655,
-                "XSI_East_Asia_South_America_East_Coast": 3193,
-                "XSI_North_Europe_US_East_Coast": 1902,
-                "XSI_US_East_Coast_North_Europe": 615,
-                "XSI_North_Europe_South_America_East_Coast": 611
-            },
             {
                 "date": "2025-09-02",
                 "XSI_Composite_Index": 1434,
@@ -5994,10 +5949,6 @@
         ],
         "MBCI": [
             {
-                "date": "2025-08-29",
-                "MBCI_Value": 1372
-            },
-            {
                 "date": "2025-09-05",
                 "MBCI_Value": 1305
             },
@@ -6941,59 +6892,55 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "73.49",
-            "LA_WeatherStatus": "구름 많음(broken clouds)",
-            "LA_Humidity": "78",
-            "LA_WindSpeed": "4.61",
+            "LA_Temperature": "71.87",
+            "LA_WeatherStatus": "구름 중간(scattered clouds)",
+            "LA_Humidity": "77",
+            "LA_WindSpeed": "0",
             "LA_Pressure": "1011",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:24:41 AM",
-            "LA_Sunset": "7:23:31 PM"
+            "LA_Sunrise": "6:25:23 AM",
+            "LA_Sunset": "7:22:13 PM"
         },
         "forecast": [
             {
-                "date": "8/29/2026",
-                "min_temp": "73.5",
-                "max_temp": "88.3",
+                "date": "8/30/2026",
+                "min_temp": "71.6",
+                "max_temp": "87.2",
                 "status": "구름 중간(scattered clouds)"
             },
             {
-                "date": "8/30/2026",
-                "min_temp": "68.7",
-                "max_temp": "89.3",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "8/31/2026",
-                "min_temp": "72.1",
-                "max_temp": "86.8",
+                "min_temp": "66.6",
+                "max_temp": "87.2",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "9/1/2026",
-                "min_temp": "71",
-                "max_temp": "86.8",
+                "min_temp": "70.7",
+                "max_temp": "86.1",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "9/2/2026",
-                "min_temp": "73",
-                "max_temp": "86.2",
-                "status": "맑음(clear sky)"
+                "min_temp": "72",
+                "max_temp": "84.8",
+                "status": "구름 많음(broken clouds)"
             },
             {
                 "date": "9/3/2026",
+                "min_temp": "71.8",
+                "max_temp": "86.8",
+                "status": "맑음(clear sky)"
+            },
+            {
+                "date": "9/4/2026",
                 "min_temp": "72.1",
-                "max_temp": "73.9",
+                "max_temp": "72.3",
                 "status": "맑음(clear sky)"
             }
         ]
     },
     "exchange_rate": [
-        {
-            "date": "2026-07-29",
-            "rate": 1443.0
-        },
         {
             "date": "2026-07-30",
             "rate": 1422.0
@@ -7077,6 +7024,10 @@
         {
             "date": "2026-08-27",
             "rate": 1381.0
+        },
+        {
+            "date": "2026-08-28",
+            "rate": 1378.0
         }
     ]
 }
