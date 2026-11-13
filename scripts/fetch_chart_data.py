@@ -43,7 +43,7 @@ SECTION_COLUMN_MAPPINGS = {
         "data_start_col_idx": 1, # B열
         "data_end_col_idx": 14, # O열
         "sub_headers_map": { # Headers from row 2 (index 1)
-            "종합지수(Point)와 그 외 항로별($/FEU)": "Date", # A2
+            "종합지수와 각 항로별($/FEU)": "Date", # A2
             "종합지수": "Composite_Index", # B2
             "미주서안": "US_West_Coast", # C2
             "미주동안": "US_East_Coast",
