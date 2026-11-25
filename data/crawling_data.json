@@ -2,23 +2,6 @@
     "chart_data": {
         "KCCI": [
             {
-                "date": "2025-11-24",
-                "KCCI_Composite_Index": 1689,
-                "KCCI_US_West_Coast": 1908,
-                "KCCI_US_East_Coast": 2764,
-                "KCCI_Europe": 2359,
-                "KCCI_Mediterranean": 2742,
-                "KCCI_Middle_East": 2106,
-                "KCCI_Australia": 2959,
-                "KCCI_South_America_East_Coast": 2242,
-                "KCCI_South_America_West_Coast": 1916,
-                "KCCI_South_Africa": 3519,
-                "KCCI_West_Africa": 3474,
-                "KCCI_China": 48,
-                "KCCI_Japan": 215,
-                "KCCI_Southeast_Asia": 893
-            },
-            {
                 "date": "2025-12-01",
                 "KCCI_Composite_Index": 1671,
                 "KCCI_US_West_Coast": 1780,
@@ -3292,18 +3275,6 @@
         ],
         "XSI": [
             {
-                "date": "2025-11-24",
-                "XSI_Composite_Index": 1288,
-                "XSI_East_Asia_North_Europe": 2339,
-                "XSI_North_Europe_East_Asia": 136,
-                "XSI_East_Asia_US_West_Coast": 2020,
-                "XSI_US_West_Coast_East_Asia": 641,
-                "XSI_East_Asia_South_America_East_Coast": 2505,
-                "XSI_North_Europe_US_East_Coast": 1579,
-                "XSI_US_East_Coast_North_Europe": 597,
-                "XSI_North_Europe_South_America_East_Coast": 487
-            },
-            {
                 "date": "2025-11-25",
                 "XSI_Composite_Index": 1275,
                 "XSI_East_Asia_North_Europe": 2317,
@@ -5990,6 +5961,18 @@
                 "XSI_North_Europe_US_East_Coast": 2941,
                 "XSI_US_East_Coast_North_Europe": 700,
                 "XSI_North_Europe_South_America_East_Coast": 780
+            },
+            {
+                "date": "2026-11-24",
+                "XSI_Composite_Index": 2496,
+                "XSI_East_Asia_North_Europe": 3384,
+                "XSI_North_Europe_East_Asia": 243,
+                "XSI_East_Asia_US_West_Coast": 7751,
+                "XSI_US_West_Coast_East_Asia": 700,
+                "XSI_East_Asia_South_America_East_Coast": 3461,
+                "XSI_North_Europe_US_East_Coast": 2933,
+                "XSI_US_East_Coast_North_Europe": 712,
+                "XSI_North_Europe_South_America_East_Coast": 785
             }
         ],
         "MBCI": [
@@ -6824,21 +6807,21 @@
             "rows": [
                 {
                     "route": "XSI_종합지수",
-                    "current_index": 2526.0,
-                    "previous_index": 2637.0,
+                    "current_index": 2496.0,
+                    "previous_index": 2620.0,
                     "weekly_change": {
-                        "value": "-112.0",
-                        "percentage": "-4.23%",
+                        "value": "-124.0",
+                        "percentage": "-4.72%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_동아시아 → 북유럽",
-                    "current_index": 3400.0,
-                    "previous_index": 3498.0,
+                    "current_index": 3384.0,
+                    "previous_index": 3433.0,
                     "weekly_change": {
-                        "value": "-98.0",
-                        "percentage": "-2.80%",
+                        "value": "-49.0",
+                        "percentage": "-1.43%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -6854,46 +6837,16 @@
                 },
                 {
                     "route": "XSI_동아시아 → 미주서안",
-                    "current_index": 7898.0,
-                    "previous_index": 8294.0,
+                    "current_index": 7751.0,
+                    "previous_index": 8275.0,
                     "weekly_change": {
-                        "value": "-396.0",
-                        "percentage": "-4.77%",
+                        "value": "-524.0",
+                        "percentage": "-6.33%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "XSI_미주서안 → 동아시아",
-                    "current_index": 698.0,
-                    "previous_index": 709.0,
-                    "weekly_change": {
-                        "value": "-11.0",
-                        "percentage": "-1.55%",
-                        "color_class": "text-blue-500"
-                    }
-                },
-                {
-                    "route": "XSI_동아시아 → 남미동안",
-                    "current_index": 3545.0,
-                    "previous_index": 3875.0,
-                    "weekly_change": {
-                        "value": "-330.0",
-                        "percentage": "-8.52%",
-                        "color_class": "text-blue-500"
-                    }
-                },
-                {
-                    "route": "XSI_북유럽 → 미주동안",
-                    "current_index": 2941.0,
-                    "previous_index": 2973.0,
-                    "weekly_change": {
-                        "value": "-32.0",
-                        "percentage": "-1.08%",
-                        "color_class": "text-blue-500"
-                    }
-                },
-                {
-                    "route": "XSI_미주동안 → 북유럽",
                     "current_index": 700.0,
                     "previous_index": 711.0,
                     "weekly_change": {
@@ -6903,12 +6856,42 @@
                     }
                 },
                 {
-                    "route": "XSI_북유럽 → 남미동안",
-                    "current_index": 780.0,
-                    "previous_index": 787.0,
+                    "route": "XSI_동아시아 → 남미동안",
+                    "current_index": 3461.0,
+                    "previous_index": 3828.0,
                     "weekly_change": {
-                        "value": "-7.0",
-                        "percentage": "-0.89%",
+                        "value": "-367.0",
+                        "percentage": "-9.59%",
+                        "color_class": "text-blue-500"
+                    }
+                },
+                {
+                    "route": "XSI_북유럽 → 미주동안",
+                    "current_index": 2933.0,
+                    "previous_index": 2959.0,
+                    "weekly_change": {
+                        "value": "-26.0",
+                        "percentage": "-0.88%",
+                        "color_class": "text-blue-500"
+                    }
+                },
+                {
+                    "route": "XSI_미주동안 → 북유럽",
+                    "current_index": 712.0,
+                    "previous_index": 712.0,
+                    "weekly_change": {
+                        "value": "0.0",
+                        "percentage": "0.00%",
+                        "color_class": "text-gray-700"
+                    }
+                },
+                {
+                    "route": "XSI_북유럽 → 남미동안",
+                    "current_index": 785.0,
+                    "previous_index": 790.0,
+                    "weekly_change": {
+                        "value": "-5.0",
+                        "percentage": "-0.63%",
                         "color_class": "text-blue-500"
                     }
                 }
@@ -6937,51 +6920,51 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "55.76",
-            "LA_WeatherStatus": "연기(smoke)",
-            "LA_Humidity": "55",
-            "LA_WindSpeed": "3.44",
-            "LA_Pressure": "1022",
+            "LA_Temperature": "58.32",
+            "LA_WeatherStatus": "맑음(clear sky)",
+            "LA_Humidity": "47",
+            "LA_WindSpeed": "4.61",
+            "LA_Pressure": "1018",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "6:34:20 AM",
-            "LA_Sunset": "4:45:27 PM"
+            "LA_Sunrise": "6:35:15 AM",
+            "LA_Sunset": "4:45:08 PM"
         },
         "forecast": [
             {
-                "date": "11/24/2026",
-                "min_temp": "55.6",
-                "max_temp": "69.8",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "11/25/2026",
-                "min_temp": "56",
-                "max_temp": "76.7",
-                "status": "흐림(overcast clouds)"
+                "min_temp": "58.3",
+                "max_temp": "71.9",
+                "status": "맑음(clear sky)"
             },
             {
                 "date": "11/26/2026",
-                "min_temp": "44.4",
-                "max_temp": "77.4",
-                "status": "맑음(clear sky)"
+                "min_temp": "57.9",
+                "max_temp": "84",
+                "status": "구름 조금(few clouds)"
             },
             {
                 "date": "11/27/2026",
-                "min_temp": "54.8",
-                "max_temp": "80.3",
-                "status": "구름 중간(scattered clouds)"
+                "min_temp": "56.5",
+                "max_temp": "82.1",
+                "status": "구름 조금(few clouds)"
             },
             {
                 "date": "11/28/2026",
-                "min_temp": "59.3",
-                "max_temp": "71.5",
+                "min_temp": "58.9",
+                "max_temp": "69.3",
                 "status": "구름 중간(scattered clouds)"
             },
             {
                 "date": "11/29/2026",
-                "min_temp": "55.1",
-                "max_temp": "57.4",
-                "status": "맑음(clear sky)"
+                "min_temp": "53.6",
+                "max_temp": "72.5",
+                "status": "구름 조금(few clouds)"
+            },
+            {
+                "date": "11/30/2026",
+                "min_temp": "57.6",
+                "max_temp": "59.3",
+                "status": "구름 많음(broken clouds)"
             }
         ]
     },
@@ -7072,7 +7055,7 @@
         },
         {
             "date": "2026-11-24",
-            "rate": 1344.0
+            "rate": 1343.0
         }
     ]
 }
